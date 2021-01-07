@@ -11,7 +11,7 @@ sites:
   - name: XLX936
     url: https://xlx.dvnz.nz
   - name: HBlink
-    url: https://hblink.dvnz.nz
+    url: http://hblink.dvnz.nz
   - name: M17-299
     url: https://m17.dvnz.nz
 
