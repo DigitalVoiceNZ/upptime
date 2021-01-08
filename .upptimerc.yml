@@ -18,6 +18,8 @@ sites:
     url: http://hblink.dvnz.nz
   - name: M17-299
     url: https://m17.dvnz.nz
+  - name: M17-327
+    url: https://m17-327.from-ak.com
   - name: ZL1HXD Repeater 
     url: http://www.zl1hxd.duckdns.org:82
   - name: ZL1OTD Repeater
