@@ -13,19 +13,19 @@ sites:
   - name: XLX626
     url: https://xlx626.onjapan.net
   - name: XLX530
-     url: http://124.197.62.162:84
+     url: http://124.197.62.162:84/
   - name: HBlink
     url: http://hblink.dvnz.nz
   - name: M17-299
     url: https://m17.dvnz.nz
   - name: ZL1HXD Repeater 
-    url: http://www.zl1hxd.duckdns.org:82
+    url: http://www.zl1hxd.duckdns.org:82/
   - name: ZL1OTD Repeater
     url: https://zl1otd.dvnz.nz
   - name: ZL1AMK Repeater
-     url: http://zl1amk.ddns.net:82
+     url: http://zl1amk.ddns.net:82/
   - name: ZL3DVR Repeater 
-     url: http://124.197.62.162:86
+     url: http://124.197.62.162:86/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
