@@ -22,6 +22,8 @@ sites:
     url: https://m17.dvnz.nz
   - name: M17-327
     url: https://m17-327.from-ak.com
+  - name: YCS530
+    url: http://ycs530.xreflector.net/ycs
   - name: ZL1HXD Repeater 
     url: http://www.zl1hxd.duckdns.org:82
   - name: ZL1OTD Repeater
