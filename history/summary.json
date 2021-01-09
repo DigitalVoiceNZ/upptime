@@ -22,18 +22,20 @@
     "url": "https://xlx299.nz",
     "icon": "https://favicons.githubusercontent.com/xlx299.nz",
     "slug": "xlx-299",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 2687,
     "timeDay": 2181,
     "timeWeek": 2687,
     "timeMonth": 2687,
     "timeYear": 2687,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-09": 1
+    }
   },
   {
     "name": "XLX936",
@@ -133,18 +135,18 @@
     "icon": "https://favicons.githubusercontent.com/m17.dvnz.nz",
     "slug": "m17-299",
     "status": "down",
-    "uptime": "98.61%",
-    "uptimeDay": "97.41%",
-    "uptimeWeek": "98.61%",
-    "uptimeMonth": "98.61%",
-    "uptimeYear": "98.61%",
+    "uptime": "97.29%",
+    "uptimeDay": "94.88%",
+    "uptimeWeek": "97.29%",
+    "uptimeMonth": "97.29%",
+    "uptimeYear": "97.29%",
     "time": 1171,
     "timeDay": 1685,
     "timeWeek": 1171,
     "timeMonth": 1171,
     "timeYear": 1171,
     "dailyMinutesDown": {
-      "2021-01-09": 37
+      "2021-01-09": 74
     }
   },
   {
@@ -243,11 +245,11 @@
     "icon": "https://favicons.githubusercontent.com/zl1otd.dvnz.nz",
     "slug": "zl-1-otd-repeater",
     "status": "up",
-    "uptime": "84.60%",
+    "uptime": "84.90%",
     "uptimeDay": "91.21%",
-    "uptimeWeek": "84.60%",
-    "uptimeMonth": "84.60%",
-    "uptimeYear": "84.60%",
+    "uptimeWeek": "84.90%",
+    "uptimeMonth": "84.90%",
+    "uptimeYear": "84.90%",
     "time": 1275,
     "timeDay": 1080,
     "timeWeek": 1275,
