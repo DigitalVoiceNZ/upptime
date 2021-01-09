@@ -155,18 +155,18 @@
     "icon": "https://favicons.githubusercontent.com/m17-nzd.dvnz.nz",
     "slug": "m17-nzd",
     "status": "down",
-    "uptime": "12.13%",
-    "uptimeDay": "12.13%",
-    "uptimeWeek": "12.13%",
-    "uptimeMonth": "12.13%",
-    "uptimeYear": "12.13%",
+    "uptime": "7.24%",
+    "uptimeDay": "7.24%",
+    "uptimeWeek": "7.24%",
+    "uptimeMonth": "7.24%",
+    "uptimeYear": "7.24%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-09": 0
+      "2021-01-09": 1
     }
   },
   {
