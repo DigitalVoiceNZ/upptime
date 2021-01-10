@@ -1,7 +1,7 @@
 url: https://asl.m1m0n.net/allmon2/link.php?nodes=51178
-status: up
-code: 200
-responseTime: 1236
-lastUpdated: 2021-01-09T23:33:02.276Z
+status: down
+code: 502
+responseTime: 4281
+lastUpdated: 2021-01-10T08:33:20.151Z
 startTime: Fri Jan 08 2021 08:16:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
