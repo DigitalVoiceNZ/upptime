@@ -21,7 +21,7 @@ sites:
   - name: M17-299
     url: https://m17.dvnz.nz
   - name: M17-NZD
-    url: http://m17-nzd.dvnz.nz/ 
+    url: https://m17-nzd.dvnz.nz/ 
   - name: M17-327
     url: https://m17-327.from-ak.com
   - name: YCS530
