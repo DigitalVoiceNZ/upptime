@@ -18,8 +18,6 @@ sites:
     url: https://xlx327.from-ak.com
   - name: HBlink
     url: http://hblink.dvnz.nz
-  - name: M17-299
-    url: https://m17.dvnz.nz
   - name: M17-NZD
     url: https://m17-nzd.dvnz.nz/ 
   - name: M17-327
