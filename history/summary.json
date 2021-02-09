@@ -13,7 +13,7 @@
     "time": 1303,
     "timeDay": 1430,
     "timeWeek": 1436,
-    "timeMonth": 1357,
+    "timeMonth": 1367,
     "timeYear": 1303,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 2278,
     "timeDay": 3405,
     "timeWeek": 1656,
-    "timeMonth": 2132,
+    "timeMonth": 2127,
     "timeYear": 2278,
     "dailyMinutesDown": {
       "2021-01-30": 43,
@@ -57,7 +57,7 @@
     "time": 2505,
     "timeDay": 2563,
     "timeWeek": 3064,
-    "timeMonth": 2758,
+    "timeMonth": 2794,
     "timeYear": 2505,
     "dailyMinutesDown": {}
   },
@@ -75,7 +75,7 @@
     "time": 880,
     "timeDay": 845,
     "timeWeek": 1035,
-    "timeMonth": 914,
+    "timeMonth": 926,
     "timeYear": 880,
     "dailyMinutesDown": {}
   },
@@ -93,7 +93,7 @@
     "time": 866,
     "timeDay": 861,
     "timeWeek": 875,
-    "timeMonth": 879,
+    "timeMonth": 881,
     "timeYear": 866,
     "dailyMinutesDown": {
       "2021-02-05": 9,
@@ -115,7 +115,7 @@
     "time": 576,
     "timeDay": 337,
     "timeWeek": 598,
-    "timeMonth": 552,
+    "timeMonth": 561,
     "timeYear": 576,
     "dailyMinutesDown": {}
   },
@@ -133,7 +133,7 @@
     "time": 677,
     "timeDay": 703,
     "timeWeek": 723,
-    "timeMonth": 712,
+    "timeMonth": 713,
     "timeYear": 677,
     "dailyMinutesDown": {
       "2021-01-07": 9
@@ -145,11 +145,11 @@
     "icon": "https://favicons.githubusercontent.com/m17-nzd.m1m0n.net",
     "slug": "m17-nzd",
     "status": "up",
-    "uptime": "63.13%",
+    "uptime": "63.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "62.44%",
-    "uptimeYear": "63.13%",
+    "uptimeMonth": "62.50%",
+    "uptimeYear": "63.17%",
     "time": 1226,
     "timeDay": 1206,
     "timeWeek": 1220,
@@ -185,7 +185,7 @@
     "time": 299,
     "timeDay": 279,
     "timeWeek": 383,
-    "timeMonth": 327,
+    "timeMonth": 330,
     "timeYear": 299,
     "dailyMinutesDown": {}
   },
@@ -203,7 +203,7 @@
     "time": 645,
     "timeDay": 604,
     "timeWeek": 623,
-    "timeMonth": 638,
+    "timeMonth": 640,
     "timeYear": 645,
     "dailyMinutesDown": {}
   },
@@ -221,7 +221,7 @@
     "time": 832,
     "timeDay": 843,
     "timeWeek": 907,
-    "timeMonth": 824,
+    "timeMonth": 826,
     "timeYear": 832,
     "dailyMinutesDown": {}
   },
@@ -239,7 +239,7 @@
     "time": 1315,
     "timeDay": 1267,
     "timeWeek": 1259,
-    "timeMonth": 1321,
+    "timeMonth": 1323,
     "timeYear": 1315,
     "dailyMinutesDown": {
       "2021-01-10": 104
@@ -259,7 +259,7 @@
     "time": 3155,
     "timeDay": 3258,
     "timeWeek": 3289,
-    "timeMonth": 3210,
+    "timeMonth": 3217,
     "timeYear": 3155,
     "dailyMinutesDown": {
       "2021-02-01": 29
@@ -270,19 +270,19 @@
     "url": "https://zl1otd.dvnz.nz",
     "icon": "https://favicons.githubusercontent.com/zl1otd.dvnz.nz",
     "slug": "zl-1-otd-repeater",
-    "status": "up",
+    "status": "down",
     "uptime": "90.00%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "98.37%",
-    "uptimeMonth": "90.01%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "98.36%",
+    "uptimeMonth": "90.00%",
     "uptimeYear": "90.00%",
-    "time": 6297,
-    "timeDay": 9975,
-    "timeWeek": 9701,
-    "timeMonth": 6986,
-    "timeYear": 6297,
+    "time": 6409,
+    "timeDay": 11454,
+    "timeWeek": 9974,
+    "timeMonth": 7163,
+    "timeYear": 6409,
     "dailyMinutesDown": {
-      "2021-02-09": 5,
+      "2021-02-09": 6,
       "2021-02-08": 5,
       "2021-02-07": 70,
       "2021-02-06": 25,
@@ -325,7 +325,7 @@
     "time": 2448,
     "timeDay": 2483,
     "timeWeek": 2462,
-    "timeMonth": 2469,
+    "timeMonth": 2471,
     "timeYear": 2448,
     "dailyMinutesDown": {
       "2021-02-05": 5
@@ -336,18 +336,19 @@
     "url": "http://124.197.62.162:86",
     "icon": "https://favicons.githubusercontent.com/124.197.62.162",
     "slug": "zl-3-dvr-repeater",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.91%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.94%",
     "time": 885,
     "timeDay": 709,
     "timeWeek": 802,
-    "timeMonth": 857,
+    "timeMonth": 855,
     "timeYear": 885,
     "dailyMinutesDown": {
+      "2021-02-09": 0,
       "2021-02-05": 9,
       "2021-02-01": 20
     }
