@@ -13,7 +13,7 @@
     "time": 1314,
     "timeDay": 1726,
     "timeWeek": 1462,
-    "timeMonth": 1393,
+    "timeMonth": 1397,
     "timeYear": 1314,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 2251,
     "timeDay": 1290,
     "timeWeek": 1929,
-    "timeMonth": 2103,
+    "timeMonth": 2100,
     "timeYear": 2251,
     "dailyMinutesDown": {
       "2021-01-30": 43,
@@ -57,7 +57,7 @@
     "time": 2525,
     "timeDay": 2200,
     "timeWeek": 2815,
-    "timeMonth": 2945,
+    "timeMonth": 2983,
     "timeYear": 2525,
     "dailyMinutesDown": {}
   },
@@ -75,7 +75,7 @@
     "time": 894,
     "timeDay": 985,
     "timeWeek": 1054,
-    "timeMonth": 937,
+    "timeMonth": 948,
     "timeYear": 894,
     "dailyMinutesDown": {}
   },
@@ -93,7 +93,7 @@
     "time": 889,
     "timeDay": 795,
     "timeWeek": 1039,
-    "timeMonth": 921,
+    "timeMonth": 923,
     "timeYear": 889,
     "dailyMinutesDown": {
       "2021-02-05": 9,
@@ -115,7 +115,7 @@
     "time": 558,
     "timeDay": 193,
     "timeWeek": 488,
-    "timeMonth": 545,
+    "timeMonth": 550,
     "timeYear": 558,
     "dailyMinutesDown": {}
   },
@@ -133,7 +133,7 @@
     "time": 673,
     "timeDay": 655,
     "timeWeek": 669,
-    "timeMonth": 717,
+    "timeMonth": 714,
     "timeYear": 673,
     "dailyMinutesDown": {
       "2021-01-07": 9
@@ -145,11 +145,11 @@
     "icon": "https://favicons.githubusercontent.com/m17-nzd.m1m0n.net",
     "slug": "m17-nzd",
     "status": "up",
-    "uptime": "66.63%",
+    "uptime": "66.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "73.10%",
-    "uptimeYear": "66.63%",
+    "uptimeMonth": "73.16%",
+    "uptimeYear": "66.65%",
     "time": 1230,
     "timeDay": 1236,
     "timeWeek": 1232,
@@ -185,7 +185,7 @@
     "time": 292,
     "timeDay": 146,
     "timeWeek": 251,
-    "timeMonth": 327,
+    "timeMonth": 329,
     "timeYear": 292,
     "dailyMinutesDown": {}
   },
@@ -203,7 +203,7 @@
     "time": 641,
     "timeDay": 584,
     "timeWeek": 602,
-    "timeMonth": 641,
+    "timeMonth": 643,
     "timeYear": 641,
     "dailyMinutesDown": {}
   },
@@ -221,7 +221,7 @@
     "time": 816,
     "timeDay": 618,
     "timeWeek": 719,
-    "timeMonth": 818,
+    "timeMonth": 817,
     "timeYear": 816,
     "dailyMinutesDown": {}
   },
@@ -239,7 +239,7 @@
     "time": 1309,
     "timeDay": 1206,
     "timeWeek": 1272,
-    "timeMonth": 1241,
+    "timeMonth": 1242,
     "timeYear": 1309,
     "dailyMinutesDown": {
       "2021-01-10": 104
@@ -259,7 +259,7 @@
     "time": 3162,
     "timeDay": 3178,
     "timeWeek": 3246,
-    "timeMonth": 3236,
+    "timeMonth": 3242,
     "timeYear": 3162,
     "dailyMinutesDown": {
       "2021-02-11": 6,
@@ -271,19 +271,19 @@
     "url": "https://zl1otd.dvnz.nz",
     "icon": "https://favicons.githubusercontent.com/zl1otd.dvnz.nz",
     "slug": "zl-1-otd-repeater",
-    "status": "down",
-    "uptime": "90.03%",
-    "uptimeDay": "92.51%",
-    "uptimeWeek": "94.46%",
+    "status": "up",
+    "uptime": "89.98%",
+    "uptimeDay": "90.66%",
+    "uptimeWeek": "94.20%",
     "uptimeMonth": "92.60%",
-    "uptimeYear": "90.03%",
-    "time": 7041,
-    "timeDay": 11606,
-    "timeWeek": 10597,
-    "timeMonth": 8205,
-    "timeYear": 7041,
+    "uptimeYear": "89.98%",
+    "time": 7008,
+    "timeDay": 9779,
+    "timeWeek": 10404,
+    "timeMonth": 8219,
+    "timeYear": 7008,
     "dailyMinutesDown": {
-      "2021-02-13": 0,
+      "2021-02-13": 27,
       "2021-02-12": 108,
       "2021-02-11": 288,
       "2021-02-10": 48,
@@ -330,7 +330,7 @@
     "time": 2444,
     "timeDay": 2440,
     "timeWeek": 2448,
-    "timeMonth": 2469,
+    "timeMonth": 2471,
     "timeYear": 2444,
     "dailyMinutesDown": {
       "2021-02-05": 5
@@ -350,7 +350,7 @@
     "time": 888,
     "timeDay": 877,
     "timeWeek": 869,
-    "timeMonth": 858,
+    "timeMonth": 859,
     "timeYear": 888,
     "dailyMinutesDown": {
       "2021-02-09": 10,
