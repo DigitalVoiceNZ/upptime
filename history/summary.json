@@ -6,7 +6,7 @@
     "slug": "dvnz",
     "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "94.64%",
+    "uptimeDay": "94.61%",
     "uptimeWeek": "99.23%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.95%",
@@ -16,7 +16,7 @@
     "timeMonth": 1278,
     "timeYear": 1357,
     "dailyMinutesDown": {
-      "2021-06-26": 77,
+      "2021-06-26": 78,
       "2021-05-14": 36
     }
   },
