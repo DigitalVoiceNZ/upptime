@@ -36,8 +36,7 @@ sites:
     url: http://zl1amk.ddns.net:82
   - name: ZL2ROR Repeater
     url: https://zl2ror.dvnz.nz  
-  - name: ZL3DVR Repeater 
-    url: http://124.197.62.162:86
+  
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
