@@ -26,8 +26,6 @@ sites:
     url: http://ycs530.xreflector.net/ycs
   - name: IPSC2-ZL
     url: http://dmrplus.arec.info/ipsc 
-  - name: Allstar Node 51178
-    url: https://asl.m1m0n.net/allmon2/link.php?nodes=51178
   - name: ZL1HXD Repeater 
     url: http://www.zl1hxd.duckdns.org:82
   - name: ZL1OTD Repeater
