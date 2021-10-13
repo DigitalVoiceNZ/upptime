@@ -381,7 +381,7 @@
     "slug": "ipsc-2-zl",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "99.11%",
+    "uptimeDay": "99.51%",
     "uptimeWeek": "99.87%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.79%",
@@ -467,17 +467,17 @@
     "url": "https://zl1otd.dvnz.nz",
     "icon": "https://favicons.githubusercontent.com/zl1otd.dvnz.nz",
     "slug": "zl-1-otd-repeater",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "84.81%",
+    "uptimeDay": "84.78%",
     "uptimeWeek": "94.85%",
-    "uptimeMonth": "97.45%",
+    "uptimeMonth": "97.46%",
     "uptimeYear": "99.72%",
-    "time": 9721,
-    "timeDay": 11003,
-    "timeWeek": 10855,
-    "timeMonth": 10495,
-    "timeYear": 9721,
+    "time": 9727,
+    "timeDay": 11417,
+    "timeWeek": 10951,
+    "timeMonth": 10530,
+    "timeYear": 9727,
     "dailyMinutesDown": {
       "2021-10-13": 219,
       "2021-10-12": 28,
@@ -501,7 +501,7 @@
       "2021-09-24": 35,
       "2021-09-23": 32,
       "2021-09-22": 25,
-      "2021-09-21": 43
+      "2021-09-21": 38
     }
   },
   {
