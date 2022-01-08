@@ -14,7 +14,7 @@
     "timeDay": 1280,
     "timeWeek": 1266,
     "timeMonth": 1263,
-    "timeYear": 1326,
+    "timeYear": 1331,
     "dailyMinutesDown": {
       "2021-09-24": 5,
       "2021-07-14": 5,
@@ -37,7 +37,7 @@
     "timeDay": 3213,
     "timeWeek": 1415,
     "timeMonth": 1237,
-    "timeYear": 1845,
+    "timeYear": 1818,
     "dailyMinutesDown": {
       "2021-11-21": 178,
       "2021-11-14": 303,
@@ -97,7 +97,7 @@
     "timeDay": 2080,
     "timeWeek": 2739,
     "timeMonth": 2141,
-    "timeYear": 2117,
+    "timeYear": 2118,
     "dailyMinutesDown": {
       "2021-12-26": 23,
       "2021-10-16": 3,
@@ -152,7 +152,7 @@
     "timeDay": 403,
     "timeWeek": 793,
     "timeMonth": 659,
-    "timeYear": 797,
+    "timeYear": 799,
     "dailyMinutesDown": {
       "2021-11-16": 18,
       "2021-09-08": 25,
@@ -167,7 +167,7 @@
     "icon": "https://favicons.githubusercontent.com/119.224.19.178",
     "slug": "xlx-530",
     "status": "up",
-    "uptime": "84.77%",
+    "uptime": "84.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -176,7 +176,7 @@
     "timeDay": 797,
     "timeWeek": 805,
     "timeMonth": 811,
-    "timeYear": 880,
+    "timeYear": 881,
     "dailyMinutesDown": {
       "2021-11-03": 16,
       "2021-10-11": 83,
@@ -265,7 +265,7 @@
     "timeDay": 152,
     "timeWeek": 309,
     "timeMonth": 228,
-    "timeYear": 449,
+    "timeYear": 445,
     "dailyMinutesDown": {
       "2021-10-06": 15,
       "2021-08-27": 5,
@@ -287,7 +287,7 @@
     "timeDay": 961,
     "timeWeek": 1072,
     "timeMonth": 1056,
-    "timeYear": 1033,
+    "timeYear": 1047,
     "dailyMinutesDown": {
       "2021-05-14": 35,
       "2021-05-07": 25,
@@ -365,7 +365,7 @@
     "timeDay": 90,
     "timeWeek": 116,
     "timeMonth": 157,
-    "timeYear": 232,
+    "timeYear": 233,
     "dailyMinutesDown": {
       "2021-10-06": 24,
       "2021-08-05": 5,
@@ -387,7 +387,7 @@
     "timeDay": 552,
     "timeWeek": 566,
     "timeMonth": 579,
-    "timeYear": 618,
+    "timeYear": 616,
     "dailyMinutesDown": {
       "2021-02-15": 10
     }
@@ -407,7 +407,7 @@
     "timeDay": 738,
     "timeWeek": 736,
     "timeMonth": 723,
-    "timeYear": 717,
+    "timeYear": 715,
     "dailyMinutesDown": {
       "2021-10-12": 13,
       "2021-09-06": 81,
@@ -428,16 +428,16 @@
     "icon": "https://favicons.githubusercontent.com/www.zl1hxd.duckdns.org",
     "slug": "zl-1-hxd-repeater",
     "status": "up",
-    "uptime": "86.91%",
+    "uptime": "86.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "70.06%",
+    "uptimeMonth": "72.53%",
     "uptimeYear": "86.91%",
     "time": 1927,
     "timeDay": 1185,
     "timeWeek": 1068,
     "timeMonth": 1028,
-    "timeYear": 1927,
+    "timeYear": 1898,
     "dailyMinutesDown": {
       "2021-12-17": 226,
       "2021-12-16": 1440,
@@ -528,18 +528,19 @@
     "url": "https://zl1otd.dvnz.nz",
     "icon": "https://favicons.githubusercontent.com/zl1otd.dvnz.nz",
     "slug": "zl-1-otd-repeater",
-    "status": "up",
-    "uptime": "99.55%",
-    "uptimeDay": "85.14%",
+    "status": "down",
+    "uptime": "99.56%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "97.28%",
     "uptimeMonth": "98.02%",
-    "uptimeYear": "99.55%",
-    "time": 9865,
-    "timeDay": 10334,
-    "timeWeek": 9677,
-    "timeMonth": 10130,
-    "timeYear": 9865,
+    "uptimeYear": "99.56%",
+    "time": 9870,
+    "timeDay": 11147,
+    "timeWeek": 9792,
+    "timeMonth": 10155,
+    "timeYear": 9909,
     "dailyMinutesDown": {
+      "2022-01-08": 0,
       "2022-01-07": 259,
       "2022-01-06": 16,
       "2021-12-29": 48,
@@ -594,7 +595,7 @@
       "2021-10-17": 15,
       "2021-10-16": 26,
       "2021-10-15": 20,
-      "2021-10-14": 51
+      "2021-10-14": 41
     }
   },
   {
@@ -612,7 +613,7 @@
     "timeDay": 2263,
     "timeWeek": 2291,
     "timeMonth": 2418,
-    "timeYear": 2462,
+    "timeYear": 2464,
     "dailyMinutesDown": {
       "2021-12-21": 23,
       "2021-12-20": 27,
