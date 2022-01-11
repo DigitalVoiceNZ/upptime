@@ -423,11 +423,11 @@
     "url": "http://www.zl1hxd.duckdns.org:82",
     "icon": "https://favicons.githubusercontent.com/www.zl1hxd.duckdns.org",
     "slug": "zl-1-hxd-repeater",
-    "status": "up",
+    "status": "down",
     "uptime": "87.03%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "81.67%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "81.68%",
     "uptimeYear": "86.91%",
     "time": 1921,
     "timeDay": 1146,
@@ -435,6 +435,7 @@
     "timeMonth": 1042,
     "timeYear": 1881,
     "dailyMinutesDown": {
+      "2022-01-11": 1,
       "2021-12-17": 226,
       "2021-12-16": 1440,
       "2021-12-15": 1440,
@@ -526,9 +527,9 @@
     "slug": "zl-1-otd-repeater",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "96.65%",
-    "uptimeMonth": "98.35%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.69%",
+    "uptimeMonth": "98.36%",
     "uptimeYear": "99.55%",
     "time": 9867,
     "timeDay": 8513,
@@ -536,7 +537,6 @@
     "timeMonth": 10107,
     "timeYear": 9942,
     "dailyMinutesDown": {
-      "2022-01-11": 4,
       "2022-01-10": 18,
       "2022-01-09": 41,
       "2022-01-07": 259,
@@ -592,7 +592,7 @@
       "2021-10-18": 29,
       "2021-10-17": 15,
       "2021-10-16": 26,
-      "2021-10-15": 13
+      "2021-10-15": 20
     }
   },
   {
