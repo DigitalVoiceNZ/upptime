@@ -237,8 +237,7 @@
       "2021-05-09": 31,
       "2021-05-04": 15,
       "2021-04-27": 28,
-      "2021-02-14": 19,
-      "2021-02-05": 9
+      "2021-02-14": 19
     }
   },
   {
@@ -409,7 +408,7 @@
     "icon": "https://favicons.githubusercontent.com/www.zl1hxd.duckdns.org",
     "slug": "zl-1-hxd-repeater",
     "status": "up",
-    "uptime": "87.83%",
+    "uptime": "87.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
@@ -509,19 +508,20 @@
     "url": "https://zl1otd.dvnz.nz",
     "icon": "https://favicons.githubusercontent.com/zl1otd.dvnz.nz",
     "slug": "zl-1-otd-repeater",
-    "status": "down",
-    "uptime": "99.55%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "98.44%",
-    "uptimeMonth": "98.55%",
+    "status": "up",
+    "uptime": "99.54%",
+    "uptimeDay": "98.09%",
+    "uptimeWeek": "98.17%",
+    "uptimeMonth": "98.49%",
     "uptimeYear": "99.51%",
-    "time": 9891,
-    "timeDay": 11311,
-    "timeWeek": 10399,
-    "timeMonth": 10173,
-    "timeYear": 10075,
+    "time": 9888,
+    "timeDay": 10672,
+    "timeWeek": 10273,
+    "timeMonth": 10141,
+    "timeYear": 10072,
     "dailyMinutesDown": {
-      "2022-02-04": 1,
+      "2022-02-05": 26,
+      "2022-02-04": 2,
       "2022-02-03": 17,
       "2022-02-01": 39,
       "2022-01-31": 32,
@@ -623,8 +623,7 @@
       "2021-02-22": 1182,
       "2021-02-21": 332,
       "2021-02-20": 90,
-      "2021-02-19": 5,
-      "2021-02-05": 5
+      "2021-02-19": 5
     }
   },
   {
