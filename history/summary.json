@@ -27,9 +27,9 @@
     "url": "https://xlx299.nz",
     "icon": "https://favicons.githubusercontent.com/xlx299.nz",
     "slug": "xlx-299",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
@@ -39,6 +39,7 @@
     "timeMonth": 1337,
     "timeYear": 1752,
     "dailyMinutesDown": {
+      "2022-02-08": 0,
       "2021-11-21": 178,
       "2021-11-14": 303,
       "2021-11-13": 59,
@@ -511,9 +512,9 @@
     "slug": "zl-1-otd-repeater",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.04%",
-    "uptimeMonth": "99.04%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.06%",
     "uptimeYear": "99.50%",
     "time": 9902,
     "timeDay": 10853,
@@ -521,7 +522,6 @@
     "timeMonth": 10228,
     "timeYear": 10083,
     "dailyMinutesDown": {
-      "2022-02-08": 9,
       "2022-02-05": 50,
       "2022-02-04": 2,
       "2022-02-03": 17,
@@ -584,7 +584,7 @@
       "2021-10-22": 31,
       "2021-10-21": 57,
       "2021-10-20": 93,
-      "2021-10-19": 34
+      "2021-10-19": 39
     }
   },
   {
