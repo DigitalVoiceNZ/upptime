@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/dvnz.nz",
     "slug": "dvnz",
     "status": "down",
-    "uptime": "96.22%",
+    "uptime": "96.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "48.45%",
-    "uptimeYear": "95.68%",
+    "uptimeMonth": "48.22%",
+    "uptimeYear": "95.66%",
     "time": 1327,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1324,
+    "timeMonth": 1314,
     "timeYear": 1322,
     "dailyMinutesDown": {
-      "2022-02-28": 1423,
+      "2022-03-01": 87,
+      "2022-02-28": 1440,
       "2022-02-27": 1440,
       "2022-02-26": 1440,
       "2022-02-25": 1440,
@@ -52,7 +53,7 @@
     "time": 1794,
     "timeDay": 938,
     "timeWeek": 1292,
-    "timeMonth": 1285,
+    "timeMonth": 1320,
     "timeYear": 1727,
     "dailyMinutesDown": {
       "2021-11-21": 178,
@@ -104,7 +105,7 @@
     "time": 2103,
     "timeDay": 2239,
     "timeWeek": 2339,
-    "timeMonth": 1975,
+    "timeMonth": 2098,
     "timeYear": 2006,
     "dailyMinutesDown": {
       "2021-12-26": 23,
@@ -159,7 +160,7 @@
     "time": 772,
     "timeDay": 1618,
     "timeWeek": 969,
-    "timeMonth": 621,
+    "timeMonth": 631,
     "timeYear": 744,
     "dailyMinutesDown": {
       "2022-02-26": 82,
@@ -185,7 +186,7 @@
     "time": 875,
     "timeDay": 793,
     "timeWeek": 839,
-    "timeMonth": 856,
+    "timeMonth": 861,
     "timeYear": 867,
     "dailyMinutesDown": {
       "2021-11-03": 16,
@@ -265,12 +266,12 @@
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 430,
     "timeDay": 385,
     "timeWeek": 485,
-    "timeMonth": 308,
+    "timeMonth": 330,
     "timeYear": 403,
     "dailyMinutesDown": {
       "2022-01-29": 17,
@@ -293,7 +294,7 @@
     "time": 1035,
     "timeDay": 957,
     "timeWeek": 1003,
-    "timeMonth": 1052,
+    "timeMonth": 1050,
     "timeYear": 1105,
     "dailyMinutesDown": {
       "2022-02-26": 15,
@@ -315,7 +316,7 @@
     "time": 1319,
     "timeDay": 1348,
     "timeWeek": 1385,
-    "timeMonth": 1395,
+    "timeMonth": 1390,
     "timeYear": 1328,
     "dailyMinutesDown": {
       "2022-02-06": 49,
@@ -342,8 +343,7 @@
       "2021-08-02": 13,
       "2021-07-22": 229,
       "2021-07-21": 2,
-      "2021-07-11": 7,
-      "2021-03-01": 11
+      "2021-07-11": 7
     }
   },
   {
@@ -355,12 +355,12 @@
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 229,
     "timeDay": 416,
     "timeWeek": 417,
-    "timeMonth": 256,
+    "timeMonth": 274,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2022-01-29": 17,
@@ -383,7 +383,7 @@
     "time": 612,
     "timeDay": 497,
     "timeWeek": 550,
-    "timeMonth": 561,
+    "timeMonth": 564,
     "timeYear": 606,
     "dailyMinutesDown": {}
   },
@@ -401,7 +401,7 @@
     "time": 715,
     "timeDay": 719,
     "timeWeek": 682,
-    "timeMonth": 697,
+    "timeMonth": 703,
     "timeYear": 700,
     "dailyMinutesDown": {
       "2021-10-12": 13,
@@ -431,7 +431,7 @@
     "time": 1844,
     "timeDay": 963,
     "timeWeek": 1005,
-    "timeMonth": 1209,
+    "timeMonth": 1175,
     "timeYear": 1545,
     "dailyMinutesDown": {
       "2022-02-16": 209,
@@ -526,17 +526,16 @@
     "slug": "zl-1-otd-repeater",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.27%",
-    "uptimeMonth": "98.71%",
-    "uptimeYear": "99.47%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "98.95%",
+    "uptimeYear": "99.46%",
     "time": 10092,
     "timeDay": 10199,
     "timeWeek": 10165,
-    "timeMonth": 10330,
+    "timeMonth": 10355,
     "timeYear": 10106,
     "dailyMinutesDown": {
-      "2022-02-28": 6,
       "2022-02-27": 27,
       "2022-02-22": 42,
       "2022-02-16": 38,
@@ -602,7 +601,8 @@
       "2021-10-24": 62,
       "2021-10-23": 59,
       "2021-10-22": 31,
-      "2021-10-21": 22
+      "2021-10-21": 57,
+      "2021-10-20": 2
     }
   },
   {
@@ -655,7 +655,7 @@
     "time": 1621,
     "timeDay": 1127,
     "timeWeek": 1143,
-    "timeMonth": 1164,
+    "timeMonth": 1165,
     "timeYear": 1621,
     "dailyMinutesDown": {
       "2022-02-21": 36,
