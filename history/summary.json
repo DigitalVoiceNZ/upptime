@@ -5,14 +5,14 @@
     "icon": "https://favicons.githubusercontent.com/dvnz.nz",
     "slug": "dvnz",
     "status": "up",
-    "uptime": "94.43%",
+    "uptime": "94.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "36.15%",
+    "uptimeMonth": "36.45%",
     "uptimeYear": "93.38%",
     "time": 1327,
     "timeDay": 1269,
-    "timeWeek": 1340,
+    "timeWeek": 1372,
     "timeMonth": 1351,
     "timeYear": 1312,
     "dailyMinutesDown": {
@@ -60,7 +60,7 @@
     "uptimeYear": "99.78%",
     "time": 1782,
     "timeDay": 2934,
-    "timeWeek": 1540,
+    "timeWeek": 1595,
     "timeMonth": 1377,
     "timeYear": 1716,
     "dailyMinutesDown": {
@@ -112,7 +112,7 @@
     "uptimeYear": "99.88%",
     "time": 2110,
     "timeDay": 1466,
-    "timeWeek": 2129,
+    "timeWeek": 2011,
     "timeMonth": 2225,
     "timeYear": 1979,
     "dailyMinutesDown": {
@@ -527,8 +527,7 @@
       "2021-05-07": 13,
       "2021-05-06": 34,
       "2021-05-01": 12,
-      "2021-04-26": 25,
-      "2021-03-18": 55
+      "2021-04-26": 25
     }
   },
   {
@@ -538,8 +537,8 @@
     "slug": "zl-1-otd-repeater",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "97.56%",
-    "uptimeWeek": "99.32%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "99.36%",
     "uptimeMonth": "99.21%",
     "uptimeYear": "99.44%",
     "time": 10089,
@@ -548,7 +547,7 @@
     "timeMonth": 10173,
     "timeYear": 10117,
     "dailyMinutesDown": {
-      "2022-03-17": 35,
+      "2022-03-17": 31,
       "2022-03-16": 16,
       "2022-03-11": 17,
       "2022-03-09": 21,
@@ -619,7 +618,7 @@
       "2021-10-30": 26,
       "2021-10-26": 36,
       "2021-10-25": 28,
-      "2021-10-24": 38
+      "2021-10-24": 62
     }
   },
   {
@@ -664,18 +663,19 @@
     "icon": "https://favicons.githubusercontent.com/zl2ror.dvnz.nz",
     "slug": "zl-2-ror-repeater",
     "status": "down",
-    "uptime": "99.07%",
+    "uptime": "99.04%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "75.01%",
-    "uptimeMonth": "94.16%",
-    "uptimeYear": "99.07%",
+    "uptimeWeek": "73.72%",
+    "uptimeMonth": "93.87%",
+    "uptimeYear": "99.04%",
     "time": 1584,
     "timeDay": 795,
     "timeWeek": 919,
     "timeMonth": 1080,
     "timeYear": 1584,
     "dailyMinutesDown": {
-      "2022-03-17": 1397,
+      "2022-03-18": 87,
+      "2022-03-17": 1440,
       "2022-03-16": 1123,
       "2022-02-21": 36,
       "2022-02-20": 1,
