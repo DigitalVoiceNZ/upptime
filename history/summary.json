@@ -293,8 +293,7 @@
     "dailyMinutesDown": {
       "2022-01-29": 17,
       "2021-10-06": 15,
-      "2021-08-27": 5,
-      "2021-05-05": 18
+      "2021-08-27": 5
     }
   },
   {
@@ -329,7 +328,7 @@
     "uptime": "93.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "82.89%",
+    "uptimeMonth": "82.97%",
     "uptimeYear": "94.47%",
     "time": 1319,
     "timeDay": 1426,
@@ -402,8 +401,7 @@
     "dailyMinutesDown": {
       "2022-01-29": 17,
       "2021-10-06": 24,
-      "2021-08-05": 5,
-      "2021-05-05": 18
+      "2021-08-05": 5
     }
   },
   {
@@ -566,19 +564,20 @@
     "url": "https://zl1otd.dvnz.nz",
     "icon": "https://favicons.githubusercontent.com/zl1otd.dvnz.nz",
     "slug": "zl-1-otd-repeater",
-    "status": "down",
-    "uptime": "99.27%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.14%",
-    "uptimeMonth": "94.55%",
+    "status": "up",
+    "uptime": "99.26%",
+    "uptimeDay": "97.47%",
+    "uptimeWeek": "98.78%",
+    "uptimeMonth": "94.47%",
     "uptimeYear": "99.03%",
-    "time": 10147,
-    "timeDay": 11254,
-    "timeWeek": 9749,
-    "timeMonth": 10249,
-    "timeYear": 10200,
+    "time": 10141,
+    "timeDay": 9768,
+    "timeWeek": 9557,
+    "timeMonth": 10215,
+    "timeYear": 10197,
     "dailyMinutesDown": {
-      "2022-05-04": 1,
+      "2022-05-05": 27,
+      "2022-05-04": 9,
       "2022-05-02": 38,
       "2022-04-30": 29,
       "2022-04-29": 19,
