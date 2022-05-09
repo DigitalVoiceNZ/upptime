@@ -187,8 +187,7 @@
       "2021-11-16": 18,
       "2021-09-08": 25,
       "2021-08-23": 119,
-      "2021-06-23": 37,
-      "2021-05-09": 18
+      "2021-06-23": 37
     }
   },
   {
@@ -270,8 +269,7 @@
       "2021-06-30": 1440,
       "2021-06-29": 1440,
       "2021-06-28": 649,
-      "2021-06-09": 303,
-      "2021-05-09": 31
+      "2021-06-09": 303
     }
   },
   {
@@ -327,7 +325,7 @@
     "uptime": "93.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.99%",
+    "uptimeMonth": "96.33%",
     "uptimeYear": "94.47%",
     "time": 1319,
     "timeDay": 1235,
@@ -460,7 +458,7 @@
     "icon": "https://favicons.githubusercontent.com/www.zl1hxd.duckdns.org",
     "slug": "zl-1-hxd-repeater",
     "status": "up",
-    "uptime": "89.35%",
+    "uptime": "89.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.79%",
@@ -561,18 +559,17 @@
     "icon": "https://favicons.githubusercontent.com/zl1otd.dvnz.nz",
     "slug": "zl-1-otd-repeater",
     "status": "up",
-    "uptime": "99.27%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "97.52%",
-    "uptimeMonth": "94.23%",
-    "uptimeYear": "99.02%",
+    "uptime": "99.26%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.65%",
+    "uptimeMonth": "94.26%",
+    "uptimeYear": "99.01%",
     "time": 10151,
     "timeDay": 9757,
     "timeWeek": 9926,
     "timeMonth": 10201,
     "timeYear": 10183,
     "dailyMinutesDown": {
-      "2022-05-08": 13,
       "2022-05-07": 35,
       "2022-05-06": 127,
       "2022-05-05": 27,
@@ -650,7 +647,8 @@
       "2021-12-02": 26,
       "2021-12-01": 58,
       "2021-11-30": 41,
-      "2021-11-29": 0
+      "2021-11-29": 0,
+      "2021-11-28": 57
     }
   },
   {
@@ -693,11 +691,11 @@
     "icon": "https://favicons.githubusercontent.com/zl2ror.dvnz.nz",
     "slug": "zl-2-ror-repeater",
     "status": "up",
-    "uptime": "98.49%",
+    "uptime": "98.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.49%",
+    "uptimeYear": "98.50%",
     "time": 1550,
     "timeDay": 1311,
     "timeWeek": 1223,
