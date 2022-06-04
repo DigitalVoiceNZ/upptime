@@ -576,18 +576,19 @@
     "url": "https://zl1otd.dvnz.nz",
     "icon": "https://favicons.githubusercontent.com/zl1otd.dvnz.nz",
     "slug": "zl-1-otd-repeater",
-    "status": "up",
-    "uptime": "97.37%",
-    "uptimeDay": "94.72%",
-    "uptimeWeek": "96.37%",
+    "status": "down",
+    "uptime": "97.39%",
+    "uptimeDay": "94.69%",
+    "uptimeWeek": "96.81%",
     "uptimeMonth": "65.77%",
-    "uptimeYear": "96.32%",
+    "uptimeYear": "96.33%",
     "time": 10173,
-    "timeDay": 11104,
-    "timeWeek": 10457,
-    "timeMonth": 10205,
-    "timeYear": 10221,
+    "timeDay": 11456,
+    "timeWeek": 10835,
+    "timeMonth": 10266,
+    "timeYear": 10227,
     "dailyMinutesDown": {
+      "2022-06-04": 1,
       "2022-06-03": 76,
       "2022-06-02": 65,
       "2022-06-01": 34,
@@ -673,8 +674,7 @@
       "2021-12-23": 48,
       "2021-12-22": 18,
       "2021-12-21": 23,
-      "2021-12-19": 26,
-      "2021-12-18": 78
+      "2021-12-19": 26
     }
   },
   {
