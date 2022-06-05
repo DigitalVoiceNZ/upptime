@@ -81,7 +81,7 @@
     "timeDay": 1123,
     "timeWeek": 1624,
     "timeMonth": 1972,
-    "timeYear": 1736,
+    "timeYear": 1737,
     "dailyMinutesDown": {
       "2022-05-11": 43,
       "2021-11-21": 178,
@@ -112,8 +112,7 @@
       "2021-06-18": 22,
       "2021-06-12": 10,
       "2021-06-10": 42,
-      "2021-06-08": 13,
-      "2021-06-05": 99
+      "2021-06-08": 13
     }
   },
   {
@@ -131,7 +130,7 @@
     "timeDay": 1993,
     "timeWeek": 1455,
     "timeMonth": 1963,
-    "timeYear": 1933,
+    "timeYear": 1931,
     "dailyMinutesDown": {
       "2022-05-22": 298,
       "2022-05-21": 1440,
@@ -179,8 +178,7 @@
       "2021-06-26": 4,
       "2021-06-23": 4,
       "2021-06-12": 9,
-      "2021-06-08": 12,
-      "2021-06-05": 98
+      "2021-06-08": 12
     }
   },
   {
@@ -198,7 +196,7 @@
     "timeDay": 511,
     "timeWeek": 734,
     "timeMonth": 803,
-    "timeYear": 740,
+    "timeYear": 741,
     "dailyMinutesDown": {
       "2022-02-26": 82,
       "2022-02-23": 49,
@@ -223,7 +221,7 @@
     "timeDay": 976,
     "timeWeek": 865,
     "timeMonth": 834,
-    "timeYear": 836,
+    "timeYear": 837,
     "dailyMinutesDown": {
       "2022-05-31": 129,
       "2021-11-03": 16,
@@ -306,7 +304,7 @@
     "timeDay": 720,
     "timeWeek": 610,
     "timeMonth": 698,
-    "timeYear": 426,
+    "timeYear": 427,
     "dailyMinutesDown": {
       "2022-01-29": 17,
       "2021-10-06": 15,
@@ -328,7 +326,7 @@
     "timeDay": 1221,
     "timeWeek": 1092,
     "timeMonth": 1073,
-    "timeYear": 1170,
+    "timeYear": 1169,
     "dailyMinutesDown": {
       "2022-03-20": 30,
       "2022-02-26": 15
@@ -412,7 +410,7 @@
     "timeDay": 513,
     "timeWeek": 465,
     "timeMonth": 459,
-    "timeYear": 262,
+    "timeYear": 263,
     "dailyMinutesDown": {
       "2022-01-29": 17,
       "2021-10-06": 24,
@@ -484,7 +482,7 @@
     "timeDay": 1277,
     "timeWeek": 1751,
     "timeMonth": 1429,
-    "timeYear": 1355,
+    "timeYear": 1356,
     "dailyMinutesDown": {
       "2022-06-03": 20,
       "2022-05-31": 18,
@@ -577,18 +575,17 @@
     "icon": "https://favicons.githubusercontent.com/zl1otd.dvnz.nz",
     "slug": "zl-1-otd-repeater",
     "status": "up",
-    "uptime": "97.39%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "96.73%",
-    "uptimeMonth": "65.75%",
-    "uptimeYear": "96.33%",
+    "uptime": "97.38%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.81%",
+    "uptimeMonth": "65.85%",
+    "uptimeYear": "96.32%",
     "time": 10186,
     "timeDay": 11457,
     "timeWeek": 10860,
-    "timeMonth": 10317,
-    "timeYear": 10231,
+    "timeMonth": 10301,
+    "timeYear": 10233,
     "dailyMinutesDown": {
-      "2022-06-04": 8,
       "2022-06-03": 76,
       "2022-06-02": 65,
       "2022-06-01": 34,
@@ -674,7 +671,8 @@
       "2021-12-23": 48,
       "2021-12-22": 18,
       "2021-12-21": 23,
-      "2021-12-19": 26
+      "2021-12-19": 26,
+      "2021-12-18": 78
     }
   },
   {
