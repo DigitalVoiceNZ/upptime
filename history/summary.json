@@ -202,7 +202,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "85.80%",
+    "uptimeYear": "85.83%",
     "time": 855,
     "timeDay": 858,
     "timeWeek": 1027,
@@ -267,8 +267,7 @@
       "2021-07-06": 1440,
       "2021-07-05": 1440,
       "2021-07-04": 1440,
-      "2021-07-03": 1440,
-      "2021-07-02": 1440
+      "2021-07-03": 1440
     }
   },
   {
@@ -387,18 +386,19 @@
     "icon": "https://favicons.githubusercontent.com/m17-327.from-ak.com",
     "slug": "m17-327",
     "status": "down",
-    "uptime": "96.51%",
+    "uptime": "96.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "38.21%",
-    "uptimeYear": "94.84%",
+    "uptimeMonth": "37.92%",
+    "uptimeYear": "94.82%",
     "time": 266,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 340,
     "timeYear": 270,
     "dailyMinutesDown": {
-      "2022-07-01": 1439,
+      "2022-07-02": 125,
+      "2022-07-01": 1440,
       "2022-06-30": 1440,
       "2022-06-29": 1440,
       "2022-06-28": 1440,
@@ -577,10 +577,10 @@
     "icon": "https://favicons.githubusercontent.com/zl1otd.dvnz.nz",
     "slug": "zl-1-otd-repeater",
     "status": "up",
-    "uptime": "97.53%",
-    "uptimeDay": "98.60%",
-    "uptimeWeek": "96.86%",
-    "uptimeMonth": "97.71%",
+    "uptime": "97.52%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "96.91%",
+    "uptimeMonth": "97.72%",
     "uptimeYear": "96.34%",
     "time": 10251,
     "timeDay": 10974,
@@ -588,7 +588,7 @@
     "timeMonth": 10438,
     "timeYear": 10262,
     "dailyMinutesDown": {
-      "2022-07-01": 20,
+      "2022-07-01": 15,
       "2022-06-30": 59,
       "2022-06-29": 160,
       "2022-06-28": 20,
@@ -670,7 +670,7 @@
       "2022-02-22": 42,
       "2022-02-16": 38,
       "2022-02-12": 23,
-      "2022-02-11": 203
+      "2022-02-11": 223
     }
   },
   {
@@ -749,8 +749,7 @@
       "2021-10-05": 34,
       "2021-08-08": 39,
       "2021-07-29": 9,
-      "2021-07-11": 57,
-      "2021-07-02": 18
+      "2021-07-11": 57
     }
   }
 ]
