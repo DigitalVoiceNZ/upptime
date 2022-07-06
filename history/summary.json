@@ -103,8 +103,7 @@
       "2021-07-10": 5,
       "2021-07-09": 6,
       "2021-07-08": 4,
-      "2021-07-07": 17,
-      "2021-07-06": 17
+      "2021-07-07": 17
     }
   },
   {
@@ -113,7 +112,7 @@
     "icon": "https://favicons.githubusercontent.com/xlx.dvnz.nz",
     "slug": "xlx-936",
     "status": "up",
-    "uptime": "97.87%",
+    "uptime": "97.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -160,8 +159,7 @@
       "2021-07-10": 3,
       "2021-07-09": 21,
       "2021-07-08": 33,
-      "2021-07-07": 11,
-      "2021-07-06": 20
+      "2021-07-07": 11
     }
   },
   {
@@ -198,7 +196,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "86.90%",
+    "uptimeYear": "86.93%",
     "time": 855,
     "timeDay": 769,
     "timeWeek": 862,
@@ -259,8 +257,7 @@
       "2021-07-10": 1440,
       "2021-07-09": 1440,
       "2021-07-08": 1440,
-      "2021-07-07": 1440,
-      "2021-07-06": 1440
+      "2021-07-07": 1440
     }
   },
   {
@@ -379,18 +376,19 @@
     "icon": "https://favicons.githubusercontent.com/m17-327.from-ak.com",
     "slug": "m17-327",
     "status": "down",
-    "uptime": "95.80%",
+    "uptime": "95.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "25.08%",
-    "uptimeYear": "93.75%",
+    "uptimeMonth": "24.72%",
+    "uptimeYear": "93.72%",
     "time": 266,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 250,
     "timeYear": 272,
     "dailyMinutesDown": {
-      "2022-07-05": 1431,
+      "2022-07-06": 145,
+      "2022-07-05": 1440,
       "2022-07-04": 1440,
       "2022-07-03": 1440,
       "2022-07-02": 1440,
@@ -474,7 +472,7 @@
     "icon": "https://favicons.githubusercontent.com/www.zl1hxd.duckdns.org",
     "slug": "zl-1-hxd-repeater",
     "status": "up",
-    "uptime": "90.44%",
+    "uptime": "90.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.47%",
@@ -573,18 +571,17 @@
     "icon": "https://favicons.githubusercontent.com/zl1otd.dvnz.nz",
     "slug": "zl-1-otd-repeater",
     "status": "up",
-    "uptime": "97.57%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "97.34%",
-    "uptimeMonth": "97.97%",
-    "uptimeYear": "96.37%",
+    "uptime": "97.54%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.03%",
+    "uptimeMonth": "97.98%",
+    "uptimeYear": "96.34%",
     "time": 10251,
     "timeDay": 10155,
-    "timeWeek": 10471,
+    "timeWeek": 10281,
     "timeMonth": 10320,
-    "timeYear": 10261,
+    "timeYear": 10257,
     "dailyMinutesDown": {
-      "2022-07-05": 5,
       "2022-07-02": 28,
       "2022-07-01": 15,
       "2022-06-30": 59,
@@ -667,7 +664,8 @@
       "2022-02-27": 27,
       "2022-02-22": 42,
       "2022-02-16": 38,
-      "2022-02-12": 23
+      "2022-02-12": 23,
+      "2022-02-11": 203
     }
   },
   {
