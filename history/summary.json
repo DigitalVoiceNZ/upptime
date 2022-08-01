@@ -177,7 +177,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.02%",
+    "uptimeYear": "94.05%",
     "time": 856,
     "timeDay": 959,
     "timeWeek": 834,
@@ -212,8 +212,7 @@
       "2021-08-05": 1440,
       "2021-08-04": 1440,
       "2021-08-03": 1440,
-      "2021-08-02": 1440,
-      "2021-08-01": 1440
+      "2021-08-02": 1440
     }
   },
   {
@@ -329,18 +328,19 @@
     "icon": "https://favicons.githubusercontent.com/m17-327.from-ak.com",
     "slug": "m17-327",
     "status": "down",
-    "uptime": "91.43%",
+    "uptime": "91.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "86.63%",
+    "uptimeYear": "86.59%",
     "time": 260,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 278,
     "dailyMinutesDown": {
-      "2022-07-31": 1418,
+      "2022-08-01": 143,
+      "2022-07-31": 1440,
       "2022-07-30": 1440,
       "2022-07-29": 1440,
       "2022-07-28": 1440,
@@ -544,18 +544,18 @@
     "icon": "https://favicons.githubusercontent.com/zl1otd.dvnz.nz",
     "slug": "zl-1-otd-repeater",
     "status": "up",
-    "uptime": "97.67%",
-    "uptimeDay": "96.54%",
-    "uptimeWeek": "98.15%",
-    "uptimeMonth": "98.56%",
-    "uptimeYear": "96.36%",
+    "uptime": "97.66%",
+    "uptimeDay": "97.15%",
+    "uptimeWeek": "98.24%",
+    "uptimeMonth": "98.58%",
+    "uptimeYear": "96.35%",
     "time": 10248,
     "timeDay": 10993,
     "timeWeek": 10227,
     "timeMonth": 10215,
     "timeYear": 10265,
     "dailyMinutesDown": {
-      "2022-07-31": 50,
+      "2022-07-31": 41,
       "2022-07-29": 37,
       "2022-07-27": 32,
       "2022-07-26": 44,
@@ -638,7 +638,7 @@
       "2022-04-03": 61,
       "2022-03-30": 142,
       "2022-03-25": 21,
-      "2022-03-23": 16
+      "2022-03-23": 63
     }
   },
   {
