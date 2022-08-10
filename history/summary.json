@@ -177,7 +177,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.49%",
+    "uptimeYear": "96.51%",
     "time": 855,
     "timeDay": 776,
     "timeWeek": 822,
@@ -203,8 +203,7 @@
       "2021-08-14": 1440,
       "2021-08-13": 1440,
       "2021-08-12": 1440,
-      "2021-08-11": 1440,
-      "2021-08-10": 1440
+      "2021-08-11": 1440
     }
   },
   {
@@ -319,18 +318,19 @@
     "icon": "https://favicons.githubusercontent.com/m17-327.from-ak.com",
     "slug": "m17-327",
     "status": "down",
-    "uptime": "90.01%",
+    "uptime": "89.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "84.16%",
+    "uptimeYear": "84.14%",
     "time": 260,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 279,
     "dailyMinutesDown": {
-      "2022-08-09": 1432,
+      "2022-08-10": 113,
+      "2022-08-09": 1440,
       "2022-08-08": 1440,
       "2022-08-07": 1440,
       "2022-08-06": 1440,
@@ -539,17 +539,17 @@
     "slug": "zl-1-otd-repeater",
     "status": "up",
     "uptime": "97.71%",
-    "uptimeDay": "95.97%",
-    "uptimeWeek": "98.44%",
-    "uptimeMonth": "98.57%",
+    "uptimeDay": "96.31%",
+    "uptimeWeek": "98.49%",
+    "uptimeMonth": "98.66%",
     "uptimeYear": "96.37%",
     "time": 10249,
     "timeDay": 9674,
     "timeWeek": 10099,
-    "timeMonth": 9911,
+    "timeMonth": 9891,
     "timeYear": 10256,
     "dailyMinutesDown": {
-      "2022-08-09": 58,
+      "2022-08-09": 53,
       "2022-08-08": 38,
       "2022-08-04": 61,
       "2022-08-01": 31,
@@ -632,7 +632,8 @@
       "2022-04-10": 21,
       "2022-04-07": 52,
       "2022-04-06": 17,
-      "2022-04-04": 43
+      "2022-04-04": 43,
+      "2022-04-03": 21
     }
   },
   {
@@ -672,7 +673,7 @@
     "slug": "zl-2-ror-repeater",
     "status": "up",
     "uptime": "96.71%",
-    "uptimeDay": "73.63%",
+    "uptimeDay": "82.01%",
     "uptimeWeek": "85.27%",
     "uptimeMonth": "93.41%",
     "uptimeYear": "96.35%",
