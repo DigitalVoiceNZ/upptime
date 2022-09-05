@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "92.41%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "85.66%",
+    "uptimeWeek": "87.46%",
     "uptimeMonth": "84.14%",
     "uptimeYear": "87.43%",
     "time": 1325,
@@ -181,8 +181,7 @@
       "2022-05-31": 129,
       "2021-11-03": 16,
       "2021-10-11": 83,
-      "2021-09-21": 364,
-      "2021-09-05": 11
+      "2021-09-21": 364
     }
   },
   {
@@ -294,18 +293,19 @@
     "icon": "https://favicons.githubusercontent.com/m17-327.from-ak.com",
     "slug": "m17-327",
     "status": "down",
-    "uptime": "86.14%",
+    "uptime": "86.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "77.04%",
+    "uptimeYear": "77.01%",
     "time": 262,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 282,
     "dailyMinutesDown": {
-      "2022-09-04": 1409,
+      "2022-09-05": 151,
+      "2022-09-04": 1440,
       "2022-09-03": 1440,
       "2022-09-02": 1440,
       "2022-09-01": 1440,
@@ -545,17 +545,16 @@
     "slug": "zl-1-otd-repeater",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "97.69%",
-    "uptimeMonth": "97.23%",
-    "uptimeYear": "99.41%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.79%",
+    "uptimeMonth": "97.25%",
+    "uptimeYear": "99.40%",
     "time": 10271,
     "timeDay": 11934,
     "timeWeek": 10424,
     "timeMonth": 10444,
     "timeYear": 10288,
     "dailyMinutesDown": {
-      "2022-09-04": 10,
       "2022-09-03": 15,
       "2022-09-01": 91,
       "2022-08-30": 57,
@@ -615,7 +614,8 @@
       "2022-06-03": 76,
       "2022-06-02": 65,
       "2022-06-01": 34,
-      "2022-05-30": 145
+      "2022-05-30": 145,
+      "2022-05-28": 44
     }
   },
   {
