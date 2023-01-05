@@ -30,7 +30,8 @@ sites:
     url: http://zl1amk.ddns.net:82
   - name: ZL2ROR Repeater
     url: https://zl2ror.dvnz.nz  
-  
+ - name: FreeDMR-NZ
+   url: https://freedmr.dvnz.nz
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
