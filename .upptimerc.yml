@@ -32,6 +32,12 @@ sites:
     url: https://zl2ror.dvnz.nz  
   - name: FreeDMR-NZ
     url: https://freedmr.dvnz.nz
+  - name: ZL1AM Repeater
+    url: https://zl1am.dvnz.nz
+  - name: ZL4GQ Repeater
+    url: zl4gq.dvnz.nz
+
+
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
