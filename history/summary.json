@@ -118,18 +118,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/xlx327.from-ak.com.ico",
     "slug": "xlx-327",
     "status": "down",
-    "uptime": "83.34%",
+    "uptime": "83.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "63.32%",
+    "uptimeYear": "63.30%",
     "time": 457,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 525,
     "dailyMinutesDown": {
-      "2023-03-22": 1418,
+      "2023-03-23": 85,
+      "2023-03-22": 1440,
       "2023-03-21": 1440,
       "2023-03-20": 1440,
       "2023-03-19": 1440,
@@ -331,8 +332,7 @@
       "2022-03-27": 1440,
       "2022-03-26": 1440,
       "2022-03-25": 1440,
-      "2022-03-24": 1440,
-      "2022-03-23": 557
+      "2022-03-24": 1440
     }
   },
   {
@@ -623,7 +623,7 @@
     "uptime": "97.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.51%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "95.66%",
     "time": 1628,
     "timeDay": 1429,
