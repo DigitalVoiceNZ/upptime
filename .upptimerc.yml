@@ -22,8 +22,6 @@ sites:
     url: http://ycs530.xreflector.net/ycs
   - name: IPSC2-ZL
     url: http://dmrplus.arec.info/ipsc 
-  - name: ZL1HXD Repeater 
-    url: http://www.zl1hxd.duckdns.org:82
   - name: ZL1OTD Repeater
     url: https://zl1otd.dvnz.nz
   - name: ZL1AMK Repeater
