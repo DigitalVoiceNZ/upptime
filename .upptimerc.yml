@@ -13,7 +13,7 @@ sites:
   - name: XLX530
     url: http://119.224.19.178:84/
   - name: XLX327
-    url: https://xlx327.from-ak.com
+    url: http://xlx327.from-ak.com
   - name: HBlink
     url: http://hblink.dvnz.nz
   - name: M17-NZD
