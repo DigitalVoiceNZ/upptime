@@ -8,6 +8,8 @@ sites:
     url: https://dvnz.nz
   - name: XLX299
     url: https://xlx299.nz
+  - name: M17-NZD
+    url: https://m17.dvnz.nz
   - name: XLX626
     url: https://xlx626.onjapan.net
   - name: XLX530
