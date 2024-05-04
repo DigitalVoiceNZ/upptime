@@ -20,8 +20,6 @@ sites:
     url: https://hblink.dvnz.nz
   - name: Allmon
     url: https://allstarnz.dvnz.nz
-  - name: YCS530
-    url: http://ycs530.xreflector.net/ycs
   - name: IPSC2-ZL
     url: http://dmrplus.arec.info/ipsc 
   - name: ZL1OTD Repeater
@@ -32,8 +30,6 @@ sites:
     url: https://zl2ror.dvnz.nz  
   - name: FreeDMR-NZ
     url: https://freedmr.dvnz.nz
-  - name: ZL1AM Repeater
-    url: https://zl1am.dvnz.nz
   - name: ZL4GQ Repeater
     url: zl4gq.dvnz.nz
 
