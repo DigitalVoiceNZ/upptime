@@ -57,11 +57,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/m17-nzd.dvnz.nz.ico",
     "slug": "m17-nzd",
     "status": "up",
-    "uptime": "63.63%",
+    "uptime": "63.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "82.70%",
+    "uptimeYear": "82.72%",
     "time": 881,
     "timeDay": 1030,
     "timeWeek": 1107,
@@ -121,8 +121,7 @@
       "2023-05-30": 1440,
       "2023-05-29": 1440,
       "2023-05-28": 1440,
-      "2023-05-27": 1440,
-      "2023-05-26": 1440
+      "2023-05-27": 1440
     }
   },
   {
@@ -191,11 +190,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/xlx327.from-ak.com.ico",
     "slug": "xlx-327",
     "status": "up",
-    "uptime": "80.11%",
+    "uptime": "80.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.80%",
+    "uptimeYear": "86.81%",
     "time": 383,
     "timeDay": 133,
     "timeWeek": 341,
@@ -249,8 +248,7 @@
       "2023-05-30": 1440,
       "2023-05-29": 1440,
       "2023-05-28": 1440,
-      "2023-05-27": 1440,
-      "2023-05-26": 1440
+      "2023-05-27": 1440
     }
   },
   {
@@ -465,17 +463,17 @@
     "slug": "zl-4-gq-repeater",
     "status": "up",
     "uptime": "98.21%",
-    "uptimeDay": "54.73%",
-    "uptimeWeek": "90.10%",
-    "uptimeMonth": "91.92%",
-    "uptimeYear": "97.60%",
+    "uptimeDay": "58.76%",
+    "uptimeWeek": "90.14%",
+    "uptimeMonth": "91.93%",
+    "uptimeYear": "97.61%",
     "time": 5060,
-    "timeDay": 12299,
+    "timeDay": 12893,
     "timeWeek": 10438,
     "timeMonth": 8267,
     "timeYear": 5290,
     "dailyMinutesDown": {
-      "2024-05-24": 647,
+      "2024-05-24": 643,
       "2024-05-23": 57,
       "2024-05-21": 88,
       "2024-05-20": 100,
