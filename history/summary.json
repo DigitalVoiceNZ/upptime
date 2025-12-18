@@ -178,10 +178,10 @@
     "url": "http://dmrplus.arec.info/ipsc",
     "icon": "https://icons.duckduckgo.com/ip3/dmrplus.arec.info.ico",
     "slug": "ipsc-2-zl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "85.80%",
-    "uptimeWeek": "97.97%",
+    "uptimeDay": "85.73%",
+    "uptimeWeek": "97.96%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.96%",
     "time": 728,
@@ -190,7 +190,7 @@
     "timeMonth": 921,
     "timeYear": 727,
     "dailyMinutesDown": {
-      "2025-12-18": 205
+      "2025-12-18": 206
     }
   },
   {
@@ -203,14 +203,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "39.48%",
+    "uptimeYear": "39.47%",
     "time": 1325,
     "timeDay": 724,
     "timeWeek": 830,
     "timeMonth": 877,
     "timeYear": 1227,
     "dailyMinutesDown": {
-      "2025-12-18": 564,
+      "2025-12-18": 585,
       "2025-12-17": 1440,
       "2025-12-16": 1440,
       "2025-12-15": 1440,
@@ -450,7 +450,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/zl1amk.ddns.net.ico",
     "slug": "zl-1-amk-repeater",
     "status": "down",
-    "uptime": "79.24%",
+    "uptime": "79.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -461,7 +461,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-18": 564,
+      "2025-12-18": 585,
       "2025-12-17": 1440,
       "2025-12-16": 1440,
       "2025-12-15": 1440,
