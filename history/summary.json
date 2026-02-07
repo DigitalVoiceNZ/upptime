@@ -107,7 +107,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/xlx327.from-ak.com.ico",
     "slug": "xlx-327",
     "status": "up",
-    "uptime": "86.78%",
+    "uptime": "86.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -212,18 +212,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/zl1otd.dvnz.nz.ico",
     "slug": "zl-1-otd-repeater",
     "status": "down",
-    "uptime": "84.16%",
+    "uptime": "84.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "25.93%",
+    "uptimeYear": "25.90%",
     "time": 1231,
     "timeDay": 690,
     "timeWeek": 809,
     "timeMonth": 854,
     "timeYear": 1052,
     "dailyMinutesDown": {
-      "2026-02-06": 1437,
+      "2026-02-07": 152,
+      "2026-02-06": 1440,
       "2026-02-05": 1440,
       "2026-02-04": 1440,
       "2026-02-03": 1440,
@@ -519,7 +520,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-06": 1438,
+      "2026-02-07": 153,
+      "2026-02-06": 1440,
       "2026-02-05": 1440,
       "2026-02-04": 1440,
       "2026-02-03": 1440,
@@ -882,8 +884,7 @@
       "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
-      "2025-02-08": 1440,
-      "2025-02-07": 1440
+      "2025-02-08": 1440
     }
   },
   {
