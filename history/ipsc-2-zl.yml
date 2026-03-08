@@ -1,7 +1,7 @@
 url: http://dmrplus.arec.info/ipsc
-status: up
-code: 200
-responseTime: 775
-lastUpdated: 2026-03-07T23:22:57.067Z
+status: down
+code: 504
+responseTime: 10971
+lastUpdated: 2026-03-08T04:55:45.771Z
 startTime: 2021-01-08T07:52:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
