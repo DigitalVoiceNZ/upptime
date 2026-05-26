@@ -4,16 +4,16 @@
     "url": "https://dvnz.nz",
     "icon": "https://icons.duckduckgo.com/ip3/dvnz.nz.ico",
     "slug": "dvnz",
-    "status": "down",
+    "status": "up",
     "uptime": "97.19%",
-    "uptimeDay": "98.29%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "98.29%",
+    "uptimeDay": "95.77%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "98.28%",
     "time": 1787,
-    "timeDay": 1581,
-    "timeWeek": 2994,
-    "timeMonth": 2276,
+    "timeDay": 1683,
+    "timeWeek": 2843,
+    "timeMonth": 2271,
     "timeYear": 1838,
     "dailyMinutesDown": {
       "2025-07-30": 28,
@@ -36,7 +36,7 @@
       "2026-03-30": 72,
       "2026-04-08": 65,
       "2026-04-21": 100,
-      "2026-05-26": 25
+      "2026-05-26": 61
     }
   },
   {
@@ -53,8 +53,8 @@
     "time": 1281,
     "timeDay": 935,
     "timeWeek": 1281,
-    "timeMonth": 1478,
-    "timeYear": 1257,
+    "timeMonth": 1495,
+    "timeYear": 1254,
     "dailyMinutesDown": {
       "2025-06-05": 41,
       "2026-02-12": 37,
@@ -68,17 +68,17 @@
     "url": "https://m17-nzd.dvnz.nz",
     "icon": "https://icons.duckduckgo.com/ip3/m17-nzd.dvnz.nz.ico",
     "slug": "m17-nzd",
-    "status": "down",
+    "status": "up",
     "uptime": "89.65%",
-    "uptimeDay": "98.62%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.90%",
-    "time": 1023,
-    "timeDay": 1150,
-    "timeWeek": 1093,
-    "timeMonth": 1031,
-    "timeYear": 1043,
+    "uptimeDay": "96.11%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.89%",
+    "time": 1024,
+    "timeDay": 1136,
+    "timeWeek": 1096,
+    "timeMonth": 1034,
+    "timeYear": 1044,
     "dailyMinutesDown": {
       "2025-11-21": 28,
       "2025-11-27": 18,
@@ -94,7 +94,7 @@
       "2026-03-30": 30,
       "2026-04-08": 64,
       "2026-04-21": 99,
-      "2026-05-26": 20
+      "2026-05-26": 56
     }
   },
   {
@@ -111,8 +111,8 @@
     "time": 1090,
     "timeDay": 791,
     "timeWeek": 1148,
-    "timeMonth": 1213,
-    "timeYear": 1141,
+    "timeMonth": 1228,
+    "timeYear": 1142,
     "dailyMinutesDown": {
       "2025-07-21": 123,
       "2025-08-23": 41,
@@ -136,7 +136,7 @@
     "time": 334,
     "timeDay": 1185,
     "timeWeek": 585,
-    "timeMonth": 453,
+    "timeMonth": 459,
     "timeYear": 359,
     "dailyMinutesDown": {
       "2026-03-29": 24
@@ -157,7 +157,7 @@
     "timeDay": 804,
     "timeWeek": 856,
     "timeMonth": 1200,
-    "timeYear": 956,
+    "timeYear": 957,
     "dailyMinutesDown": {
       "2025-08-13": 35,
       "2026-03-06": 42,
@@ -179,8 +179,8 @@
     "time": 1401,
     "timeDay": 5264,
     "timeWeek": 2128,
-    "timeMonth": 1979,
-    "timeYear": 1445,
+    "timeMonth": 2018,
+    "timeYear": 1446,
     "dailyMinutesDown": {
       "2025-05-27": 361,
       "2025-07-08": 25,
@@ -212,8 +212,8 @@
     "time": 1309,
     "timeDay": 820,
     "timeWeek": 850,
-    "timeMonth": 812,
-    "timeYear": 1541,
+    "timeMonth": 819,
+    "timeYear": 1543,
     "dailyMinutesDown": {
       "2025-12-18": 461,
       "2025-12-21": 20,
@@ -260,10 +260,10 @@
     "time": 1040,
     "timeDay": 844,
     "timeWeek": 834,
-    "timeMonth": 925,
+    "timeMonth": 820,
     "timeYear": 901,
     "dailyMinutesDown": {
-      "2026-05-26": 1387,
+      "2026-05-26": 1429,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
@@ -647,7 +647,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-26": 1387,
+      "2026-05-26": 1429,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
@@ -1019,17 +1019,17 @@
     "url": "https://zl2ror.dvnz.nz",
     "icon": "https://icons.duckduckgo.com/ip3/zl2ror.dvnz.nz.ico",
     "slug": "zl-2-ror-repeater",
-    "status": "down",
+    "status": "up",
     "uptime": "98.38%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.38%",
-    "time": 1376,
-    "timeDay": 1426,
-    "timeWeek": 1474,
-    "timeMonth": 1745,
-    "timeYear": 1424,
+    "uptimeDay": "96.76%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.37%",
+    "time": 1377,
+    "timeDay": 1459,
+    "timeWeek": 1477,
+    "timeMonth": 1735,
+    "timeYear": 1425,
     "dailyMinutesDown": {
       "2025-05-27": 67,
       "2025-07-08": 25,
@@ -1057,7 +1057,7 @@
       "2026-03-31": 5,
       "2026-04-08": 63,
       "2026-04-21": 99,
-      "2026-05-26": 5
+      "2026-05-26": 47
     }
   },
   {
@@ -1074,7 +1074,7 @@
     "time": 873,
     "timeDay": 1165,
     "timeWeek": 894,
-    "timeMonth": 1117,
+    "timeMonth": 1116,
     "timeYear": 828,
     "dailyMinutesDown": {
       "2025-05-28": 23,
@@ -1091,17 +1091,17 @@
     "url": "zl4gq.dvnz.nz",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "zl-4-gq-repeater",
-    "status": "down",
+    "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "86.45%",
-    "uptimeWeek": "94.61%",
-    "uptimeMonth": "97.49%",
-    "uptimeYear": "98.75%",
-    "time": 5084,
-    "timeDay": 3166,
-    "timeWeek": 2859,
-    "timeMonth": 3174,
-    "timeYear": 5293,
+    "uptimeDay": "83.59%",
+    "uptimeWeek": "94.21%",
+    "uptimeMonth": "97.39%",
+    "uptimeYear": "98.74%",
+    "time": 5088,
+    "timeDay": 3897,
+    "timeWeek": 3090,
+    "timeMonth": 3259,
+    "timeYear": 5298,
     "dailyMinutesDown": {
       "2025-09-20": 18,
       "2025-09-21": 34,
@@ -1178,7 +1178,7 @@
       "2026-05-12": 148,
       "2026-05-15": 95,
       "2026-05-22": 348,
-      "2026-05-26": 195
+      "2026-05-26": 236
     }
   }
 ]
