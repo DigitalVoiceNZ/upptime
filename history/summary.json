@@ -251,7 +251,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/zl1otd.dvnz.nz.ico",
     "slug": "zl-1-otd-repeater",
     "status": "down",
-    "uptime": "79.36%",
+    "uptime": "79.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -262,7 +262,7 @@
     "timeMonth": 833,
     "timeYear": 902,
     "dailyMinutesDown": {
-      "2026-05-30": 237,
+      "2026-05-30": 475,
       "2026-05-29": 1440,
       "2026-05-28": 1440,
       "2026-05-27": 1440,
@@ -646,7 +646,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-30": 238,
+      "2026-05-30": 475,
       "2026-05-29": 1440,
       "2026-05-28": 1440,
       "2026-05-27": 1440,
@@ -1087,19 +1087,18 @@
     "url": "zl4gq.dvnz.nz",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "zl-4-gq-repeater",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "95.64%",
     "uptimeMonth": "97.05%",
     "uptimeYear": "98.71%",
-    "time": 5252,
-    "timeDay": 1973,
-    "timeWeek": 3204,
-    "timeMonth": 3061,
-    "timeYear": 5287,
+    "time": 5238,
+    "timeDay": 3056,
+    "timeWeek": 3276,
+    "timeMonth": 3083,
+    "timeYear": 5285,
     "dailyMinutesDown": {
-      "2025-09-21": 34,
       "2025-09-23": 19,
       "2025-09-24": 90,
       "2025-09-25": 34,
@@ -1174,7 +1173,8 @@
       "2026-05-15": 95,
       "2026-05-22": 348,
       "2026-05-26": 236,
-      "2026-05-28": 203
+      "2026-05-28": 203,
+      "2026-05-30": 1
     }
   }
 ]
