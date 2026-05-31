@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dvnz.nz.ico",
     "slug": "dvnz",
     "status": "down",
-    "uptime": "97.20%",
-    "uptimeDay": "98.30%",
-    "uptimeWeek": "99.15%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "98.28%",
+    "uptime": "97.19%",
+    "uptimeDay": "88.68%",
+    "uptimeWeek": "97.78%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "98.25%",
     "time": 1788,
     "timeDay": 1659,
     "timeWeek": 2312,
@@ -37,7 +37,7 @@
       "2026-04-08": 65,
       "2026-04-21": 100,
       "2026-05-26": 61,
-      "2026-05-31": 25
+      "2026-05-31": 163
     }
   },
   {
@@ -70,11 +70,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/m17-nzd.dvnz.nz.ico",
     "slug": "m17-nzd",
     "status": "down",
-    "uptime": "89.69%",
-    "uptimeDay": "98.63%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.89%",
+    "uptime": "89.68%",
+    "uptimeDay": "89.01%",
+    "uptimeWeek": "97.87%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "99.86%",
     "time": 1024,
     "timeDay": 821,
     "timeWeek": 1004,
@@ -96,7 +96,7 @@
       "2026-04-08": 64,
       "2026-04-21": 99,
       "2026-05-26": 56,
-      "2026-05-31": 20
+      "2026-05-31": 158
     }
   },
   {
@@ -264,7 +264,7 @@
     "timeMonth": 831,
     "timeYear": 902,
     "dailyMinutesDown": {
-      "2026-05-31": 124,
+      "2026-05-31": 263,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
       "2026-05-28": 1440,
@@ -637,7 +637,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/zl1amk.ddns.net.ico",
     "slug": "zl-1-amk-repeater",
     "status": "down",
-    "uptime": "72.65%",
+    "uptime": "72.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -648,7 +648,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-31": 124,
+      "2026-05-31": 263,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
       "2026-05-28": 1440,
@@ -1022,10 +1022,10 @@
     "slug": "zl-2-ror-repeater",
     "status": "down",
     "uptime": "98.38%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.38%",
+    "uptimeDay": "90.01%",
+    "uptimeWeek": "98.11%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.35%",
     "time": 1378,
     "timeDay": 1265,
     "timeWeek": 1381,
@@ -1058,7 +1058,7 @@
       "2026-04-08": 63,
       "2026-04-21": 99,
       "2026-05-26": 47,
-      "2026-05-31": 5
+      "2026-05-31": 144
     }
   },
   {
@@ -1091,11 +1091,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "zl-4-gq-repeater",
     "status": "down",
-    "uptime": "99.62%",
-    "uptimeDay": "92.76%",
-    "uptimeWeek": "94.61%",
-    "uptimeMonth": "96.82%",
-    "uptimeYear": "98.70%",
+    "uptime": "99.61%",
+    "uptimeDay": "83.14%",
+    "uptimeWeek": "93.24%",
+    "uptimeMonth": "96.50%",
+    "uptimeYear": "98.67%",
     "time": 5242,
     "timeDay": 2988,
     "timeWeek": 3182,
@@ -1177,7 +1177,7 @@
       "2026-05-26": 236,
       "2026-05-28": 203,
       "2026-05-30": 104,
-      "2026-05-31": 1
+      "2026-05-31": 139
     }
   }
 ]
