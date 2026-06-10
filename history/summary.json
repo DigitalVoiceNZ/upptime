@@ -105,17 +105,17 @@
     "url": "http://zldigitalreflectors.hopto.org:84/",
     "icon": "https://icons.duckduckgo.com/ip3/zldigitalreflectors.hopto.org.ico",
     "slug": "xlx-530",
-    "status": "down",
+    "status": "up",
     "uptime": "96.58%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.68%",
+    "uptimeDay": "87.71%",
+    "uptimeWeek": "98.24%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.64%",
     "time": 1098,
-    "timeDay": 2002,
-    "timeWeek": 1229,
-    "timeMonth": 1246,
-    "timeYear": 1149,
+    "timeDay": 1690,
+    "timeWeek": 1248,
+    "timeMonth": 1250,
+    "timeYear": 1150,
     "dailyMinutesDown": {
       "2025-07-21": 123,
       "2025-08-23": 41,
@@ -123,7 +123,7 @@
       "2025-11-25": 172,
       "2025-11-24": 302,
       "2026-03-25": 1053,
-      "2026-06-10": 6
+      "2026-06-10": 177
     }
   },
   {
@@ -268,7 +268,7 @@
     "timeMonth": 795,
     "timeYear": 899,
     "dailyMinutesDown": {
-      "2026-06-10": 837,
+      "2026-06-10": 1014,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
@@ -652,7 +652,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-10": 837,
+      "2026-06-10": 1014,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
@@ -1099,12 +1099,12 @@
     "status": "up",
     "uptime": "99.59%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.30%",
+    "uptimeWeek": "98.53%",
     "uptimeMonth": "95.92%",
     "uptimeYear": "98.60%",
     "time": 5216,
     "timeDay": 2229,
-    "timeWeek": 2231,
+    "timeWeek": 2208,
     "timeMonth": 2790,
     "timeYear": 5116,
     "dailyMinutesDown": {
