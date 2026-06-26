@@ -268,7 +268,7 @@
     "timeMonth": 918,
     "timeYear": 906,
     "dailyMinutesDown": {
-      "2026-06-26": 1149,
+      "2026-06-26": 1254,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
@@ -641,7 +641,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/zl1amk.ddns.net.ico",
     "slug": "zl-1-amk-repeater",
     "status": "down",
-    "uptime": "71.68%",
+    "uptime": "71.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -652,7 +652,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-26": 1149,
+      "2026-06-26": 1254,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
@@ -1096,17 +1096,17 @@
     "url": "zl4gq.dvnz.nz",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "zl-4-gq-repeater",
-    "status": "down",
+    "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "96.20%",
-    "uptimeYear": "98.61%",
+    "uptimeDay": "92.70%",
+    "uptimeWeek": "98.35%",
+    "uptimeMonth": "95.97%",
+    "uptimeYear": "98.59%",
     "time": 5184,
-    "timeDay": 3586,
-    "timeWeek": 2750,
-    "timeMonth": 2787,
-    "timeYear": 4965,
+    "timeDay": 3039,
+    "timeWeek": 2669,
+    "timeMonth": 2770,
+    "timeYear": 4961,
     "dailyMinutesDown": {
       "2025-10-18": 27,
       "2025-10-23": 69,
@@ -1185,7 +1185,7 @@
       "2026-06-16": 173,
       "2026-06-23": 11,
       "2026-06-22": 51,
-      "2026-06-26": 1
+      "2026-06-26": 105
     }
   }
 ]
