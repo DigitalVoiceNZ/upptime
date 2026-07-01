@@ -6,15 +6,15 @@
     "slug": "dvnz",
     "status": "up",
     "uptime": "97.22%",
-    "uptimeDay": "98.30%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "98.20%",
+    "uptimeDay": "92.80%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "98.18%",
     "time": 1775,
-    "timeDay": 0,
-    "timeWeek": 1285,
-    "timeMonth": 1525,
-    "timeYear": 1825,
+    "timeDay": 1614,
+    "timeWeek": 1332,
+    "timeMonth": 1528,
+    "timeYear": 1826,
     "dailyMinutesDown": {
       "2025-07-30": 28,
       "2025-11-21": 28,
@@ -39,7 +39,7 @@
       "2026-05-26": 61,
       "2026-05-31": 258,
       "2026-06-05": 168,
-      "2026-07-01": 24
+      "2026-07-01": 104
     }
   },
   {
@@ -70,16 +70,16 @@
     "url": "https://m17-nzd.dvnz.nz",
     "icon": "https://icons.duckduckgo.com/ip3/m17-nzd.dvnz.nz.ico",
     "slug": "m17-nzd",
-    "status": "down",
+    "status": "up",
     "uptime": "89.96%",
-    "uptimeDay": "98.63%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.81%",
+    "uptimeDay": "93.14%",
+    "uptimeWeek": "99.02%",
+    "uptimeMonth": "99.40%",
+    "uptimeYear": "99.80%",
     "time": 1019,
-    "timeDay": 0,
-    "timeWeek": 863,
-    "timeMonth": 908,
+    "timeDay": 1274,
+    "timeWeek": 921,
+    "timeMonth": 919,
     "timeYear": 1034,
     "dailyMinutesDown": {
       "2025-11-21": 28,
@@ -99,7 +99,7 @@
       "2026-05-26": 56,
       "2026-05-31": 253,
       "2026-06-05": 163,
-      "2026-07-01": 20
+      "2026-07-01": 99
     }
   },
   {
@@ -259,7 +259,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/zl1otd.dvnz.nz.ico",
     "slug": "zl-1-otd-repeater",
     "status": "down",
-    "uptime": "78.10%",
+    "uptime": "78.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -270,7 +270,7 @@
     "timeMonth": 888,
     "timeYear": 901,
     "dailyMinutesDown": {
-      "2026-07-01": 34,
+      "2026-07-01": 119,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
@@ -654,7 +654,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-01": 34,
+      "2026-07-01": 119,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
@@ -1026,17 +1026,17 @@
     "url": "https://zl2ror.dvnz.nz",
     "icon": "https://icons.duckduckgo.com/ip3/zl2ror.dvnz.nz.ico",
     "slug": "zl-2-ror-repeater",
-    "status": "down",
+    "status": "up",
     "uptime": "98.39%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.30%",
+    "uptimeDay": "93.79%",
+    "uptimeWeek": "99.11%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.28%",
     "time": 1400,
-    "timeDay": 0,
-    "timeWeek": 1507,
-    "timeMonth": 1567,
-    "timeYear": 1459,
+    "timeDay": 1823,
+    "timeWeek": 1552,
+    "timeMonth": 1575,
+    "timeYear": 1460,
     "dailyMinutesDown": {
       "2025-07-08": 25,
       "2025-09-12": 24,
@@ -1067,7 +1067,7 @@
       "2026-05-31": 243,
       "2026-06-05": 178,
       "2026-06-06": 11,
-      "2026-07-01": 5
+      "2026-07-01": 89
     }
   },
   {
@@ -1099,17 +1099,17 @@
     "url": "zl4gq.dvnz.nz",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "zl-4-gq-repeater",
-    "status": "down",
-    "uptime": "99.60%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "98.27%",
-    "uptimeMonth": "97.15%",
-    "uptimeYear": "98.60%",
-    "time": 5171,
-    "timeDay": 0,
-    "timeWeek": 2702,
-    "timeMonth": 2649,
-    "timeYear": 4928,
+    "status": "up",
+    "uptime": "99.59%",
+    "uptimeDay": "94.12%",
+    "uptimeWeek": "97.44%",
+    "uptimeMonth": "96.96%",
+    "uptimeYear": "98.58%",
+    "time": 5172,
+    "timeDay": 2213,
+    "timeWeek": 2657,
+    "timeMonth": 2639,
+    "timeYear": 4924,
     "dailyMinutesDown": {
       "2025-10-30": 32,
       "2025-11-05": 38,
@@ -1188,7 +1188,7 @@
       "2026-06-22": 51,
       "2026-06-26": 105,
       "2026-06-27": 69,
-      "2026-07-01": 1
+      "2026-07-01": 85
     }
   }
 ]
