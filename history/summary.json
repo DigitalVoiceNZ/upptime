@@ -261,7 +261,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/zl1otd.dvnz.nz.ico",
     "slug": "zl-1-otd-repeater",
     "status": "down",
-    "uptime": "78.02%",
+    "uptime": "78.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -272,7 +272,7 @@
     "timeMonth": 888,
     "timeYear": 901,
     "dailyMinutesDown": {
-      "2026-07-03": 87,
+      "2026-07-03": 229,
       "2026-07-02": 1440,
       "2026-07-01": 1440,
       "2026-06-30": 1440,
@@ -656,7 +656,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-03": 87,
+      "2026-07-03": 229,
       "2026-07-02": 1440,
       "2026-07-01": 1440,
       "2026-06-30": 1440,
