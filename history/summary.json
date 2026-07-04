@@ -4,17 +4,17 @@
     "url": "https://dvnz.nz",
     "icon": "https://icons.duckduckgo.com/ip3/dvnz.nz.ico",
     "slug": "dvnz",
-    "status": "up",
+    "status": "down",
     "uptime": "97.23%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.97%",
-    "uptimeMonth": "99.38%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "99.36%",
     "uptimeYear": "98.18%",
-    "time": 1773,
-    "timeDay": 1162,
-    "timeWeek": 1336,
-    "timeMonth": 1472,
-    "timeYear": 1821,
+    "time": 1772,
+    "timeDay": 1109,
+    "timeWeek": 1301,
+    "timeMonth": 1459,
+    "timeYear": 1819,
     "dailyMinutesDown": {
       "2025-07-30": 28,
       "2025-11-21": 28,
@@ -39,7 +39,8 @@
       "2026-05-26": 61,
       "2026-05-31": 258,
       "2026-06-05": 168,
-      "2026-07-01": 104
+      "2026-07-01": 104,
+      "2026-07-04": 9
     }
   },
   {
@@ -70,16 +71,16 @@
     "url": "https://m17-nzd.dvnz.nz",
     "icon": "https://icons.duckduckgo.com/ip3/m17-nzd.dvnz.nz.ico",
     "slug": "m17-nzd",
-    "status": "up",
+    "status": "down",
     "uptime": "89.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.02%",
-    "uptimeMonth": "99.40%",
-    "uptimeYear": "99.80%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "99.39%",
+    "uptimeYear": "99.79%",
     "time": 1019,
-    "timeDay": 741,
-    "timeWeek": 879,
-    "timeMonth": 913,
+    "timeDay": 857,
+    "timeWeek": 891,
+    "timeMonth": 915,
     "timeYear": 1033,
     "dailyMinutesDown": {
       "2025-11-21": 28,
@@ -99,7 +100,8 @@
       "2026-05-26": 56,
       "2026-05-31": 253,
       "2026-06-05": 163,
-      "2026-07-01": 99
+      "2026-07-01": 99,
+      "2026-07-04": 5
     }
   },
   {
@@ -272,7 +274,7 @@
     "timeMonth": 875,
     "timeYear": 901,
     "dailyMinutesDown": {
-      "2026-07-04": 221,
+      "2026-07-04": 255,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
       "2026-07-01": 1440,
@@ -656,7 +658,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-04": 221,
+      "2026-07-04": 255,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
       "2026-07-01": 1440,
