@@ -6,7 +6,7 @@
     "slug": "dvnz",
     "status": "up",
     "uptime": "97.22%",
-    "uptimeDay": "97.23%",
+    "uptimeDay": "99.09%",
     "uptimeWeek": "99.60%",
     "uptimeMonth": "98.98%",
     "uptimeYear": "98.12%",
@@ -14,7 +14,7 @@
     "timeDay": 1322,
     "timeWeek": 1432,
     "timeMonth": 1403,
-    "timeYear": 1814,
+    "timeYear": 1815,
     "dailyMinutesDown": {
       "2025-07-30": 28,
       "2025-11-21": 28,
@@ -59,7 +59,7 @@
     "timeDay": 957,
     "timeWeek": 1005,
     "timeMonth": 1197,
-    "timeYear": 1288,
+    "timeYear": 1289,
     "dailyMinutesDown": {
       "2026-02-12": 37,
       "2026-03-30": 72,
@@ -74,7 +74,7 @@
     "slug": "m17-nzd",
     "status": "up",
     "uptime": "90.04%",
-    "uptimeDay": "97.57%",
+    "uptimeDay": "99.09%",
     "uptimeWeek": "99.65%",
     "uptimeMonth": "99.01%",
     "uptimeYear": "99.73%",
@@ -121,7 +121,7 @@
     "timeDay": 1321,
     "timeWeek": 1056,
     "timeMonth": 1188,
-    "timeYear": 1161,
+    "timeYear": 1163,
     "dailyMinutesDown": {
       "2025-07-21": 123,
       "2025-08-23": 41,
@@ -147,7 +147,7 @@
     "timeDay": 227,
     "timeWeek": 719,
     "timeMonth": 863,
-    "timeYear": 430,
+    "timeYear": 431,
     "dailyMinutesDown": {
       "2026-03-29": 24
     }
@@ -190,7 +190,7 @@
     "timeDay": 1574,
     "timeWeek": 2500,
     "timeMonth": 1953,
-    "timeYear": 1550,
+    "timeYear": 1551,
     "dailyMinutesDown": {
       "2025-08-07": 39,
       "2025-09-12": 25,
@@ -221,7 +221,7 @@
     "timeDay": 940,
     "timeWeek": 903,
     "timeMonth": 1527,
-    "timeYear": 1656,
+    "timeYear": 1658,
     "dailyMinutesDown": {
       "2025-12-18": 461,
       "2025-12-21": 20,
@@ -273,9 +273,9 @@
     "timeDay": 805,
     "timeWeek": 693,
     "timeMonth": 841,
-    "timeYear": 897,
+    "timeYear": 898,
     "dailyMinutesDown": {
-      "2026-07-11": 1381,
+      "2026-07-11": 1424,
       "2026-07-10": 1440,
       "2026-07-09": 1440,
       "2026-07-08": 1440,
@@ -659,7 +659,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-11": 1381,
+      "2026-07-11": 1424,
       "2026-07-10": 1440,
       "2026-07-09": 1440,
       "2026-07-08": 1440,
@@ -1033,7 +1033,7 @@
     "slug": "zl-2-ror-repeater",
     "status": "up",
     "uptime": "98.40%",
-    "uptimeDay": "98.23%",
+    "uptimeDay": "98.75%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.28%",
@@ -1105,17 +1105,17 @@
     "url": "zl4gq.dvnz.nz",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "zl-4-gq-repeater",
-    "status": "down",
+    "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "94.80%",
-    "uptimeWeek": "98.54%",
-    "uptimeMonth": "97.49%",
-    "uptimeYear": "98.56%",
-    "time": 5093,
-    "timeDay": 4520,
-    "timeWeek": 3273,
+    "uptimeDay": "92.03%",
+    "uptimeWeek": "98.12%",
+    "uptimeMonth": "97.40%",
+    "uptimeYear": "98.55%",
+    "time": 5094,
+    "timeDay": 4185,
+    "timeWeek": 3238,
     "timeMonth": 2833,
-    "timeYear": 4863,
+    "timeYear": 4864,
     "dailyMinutesDown": {
       "2025-11-11": 15,
       "2025-11-17": 24,
@@ -1192,7 +1192,7 @@
       "2026-06-27": 69,
       "2026-07-01": 249,
       "2026-07-05": 72,
-      "2026-07-11": 57,
+      "2026-07-11": 99,
       "2026-07-10": 19
     }
   }
