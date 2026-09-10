@@ -20,10 +20,6 @@ sites:
     url: https://allstarnz.dvnz.nz
   - name: IPSC2-ZL
     url: http://dmrplus.arec.info/ipsc 
-  - name: ZL1OTD Repeater
-    url: https://zl1otd.dvnz.nz
-  - name: ZL1AMK Repeater
-    url: http://zl1amk.ddns.net:82
   - name: ZL2ROR Repeater
     url: https://zl2ror.dvnz.nz  
   - name: FreeDMR-NZ
