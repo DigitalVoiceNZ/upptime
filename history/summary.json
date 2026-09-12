@@ -76,9 +76,9 @@
     "url": "https://m17-nzd.dvnz.nz",
     "icon": "https://icons.duckduckgo.com/ip3/m17-nzd.dvnz.nz.ico",
     "slug": "m17-nzd",
-    "status": "up",
+    "status": "down",
     "uptime": "90.58%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.72%",
@@ -110,7 +110,8 @@
       "2026-07-10": 35,
       "2026-08-16": 21,
       "2026-08-17": 23,
-      "2026-08-25": 26
+      "2026-08-25": 26,
+      "2026-09-12": 0
     }
   },
   {
@@ -166,7 +167,7 @@
     "status": "up",
     "uptime": "98.78%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "27.10%",
+    "uptimeWeek": "28.27%",
     "uptimeMonth": "27.11%",
     "uptimeYear": "93.91%",
     "time": 945,
