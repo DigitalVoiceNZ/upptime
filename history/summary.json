@@ -322,17 +322,17 @@
     "url": "zl4gq.dvnz.nz",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "zl-4-gq-repeater",
-    "status": "down",
-    "uptime": "98.91%",
-    "uptimeDay": "77.47%",
-    "uptimeWeek": "94.71%",
-    "uptimeMonth": "97.08%",
-    "uptimeYear": "95.83%",
+    "status": "up",
+    "uptime": "98.89%",
+    "uptimeDay": "75.36%",
+    "uptimeWeek": "93.41%",
+    "uptimeMonth": "96.31%",
+    "uptimeYear": "95.76%",
     "time": 4340,
-    "timeDay": 3079,
-    "timeWeek": 2577,
-    "timeMonth": 2432,
-    "timeYear": 4166,
+    "timeDay": 2672,
+    "timeWeek": 2481,
+    "timeMonth": 2429,
+    "timeYear": 4163,
     "dailyMinutesDown": {
       "2026-03-03": 97,
       "2026-03-06": 73,
@@ -417,7 +417,7 @@
       "2026-10-14": 633,
       "2026-10-28": 321,
       "2026-11-03": 324,
-      "2026-11-04": 1
+      "2026-11-04": 341
     }
   }
 ]
