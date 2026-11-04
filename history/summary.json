@@ -106,7 +106,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/xlx327.from-ak.com.ico",
     "slug": "xlx-327",
     "status": "up",
-    "uptime": "88.46%",
+    "uptime": "88.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -322,19 +322,18 @@
     "url": "zl4gq.dvnz.nz",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "zl-4-gq-repeater",
-    "status": "up",
+    "status": "down",
     "uptime": "98.91%",
-    "uptimeDay": "77.51%",
-    "uptimeWeek": "93.60%",
+    "uptimeDay": "77.47%",
+    "uptimeWeek": "94.71%",
     "uptimeMonth": "97.08%",
-    "uptimeYear": "95.82%",
-    "time": 4338,
-    "timeDay": 2809,
-    "timeWeek": 2619,
-    "timeMonth": 2393,
-    "timeYear": 4183,
+    "uptimeYear": "95.83%",
+    "time": 4340,
+    "timeDay": 3079,
+    "timeWeek": 2577,
+    "timeMonth": 2432,
+    "timeYear": 4166,
     "dailyMinutesDown": {
-      "2026-03-02": 22,
       "2026-03-03": 97,
       "2026-03-06": 73,
       "2026-03-08": 44,
@@ -417,7 +416,8 @@
       "2026-10-02": 343,
       "2026-10-14": 633,
       "2026-10-28": 321,
-      "2026-11-03": 324
+      "2026-11-03": 324,
+      "2026-11-04": 1
     }
   }
 ]
