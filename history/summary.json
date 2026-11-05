@@ -13,7 +13,7 @@
     "time": 1735,
     "timeDay": 1411,
     "timeWeek": 1624,
-    "timeMonth": 1501,
+    "timeMonth": 1511,
     "timeYear": 1742,
     "dailyMinutesDown": {
       "2025-11-21": 28,
@@ -62,8 +62,8 @@
     "time": 1310,
     "timeDay": 1448,
     "timeWeek": 1471,
-    "timeMonth": 1235,
-    "timeYear": 1342,
+    "timeMonth": 1246,
+    "timeYear": 1343,
     "dailyMinutesDown": {
       "2026-02-12": 37,
       "2026-03-30": 72,
@@ -80,7 +80,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/zldigitalreflectors.hopto.org.ico",
     "slug": "xlx-530",
     "status": "up",
-    "uptime": "96.77%",
+    "uptime": "96.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.35%",
@@ -88,8 +88,8 @@
     "time": 1133,
     "timeDay": 793,
     "timeWeek": 878,
-    "timeMonth": 780,
-    "timeYear": 1108,
+    "timeMonth": 784,
+    "timeYear": 1109,
     "dailyMinutesDown": {
       "2025-11-25": 172,
       "2025-11-24": 302,
@@ -114,8 +114,8 @@
     "time": 461,
     "timeDay": 267,
     "timeWeek": 431,
-    "timeMonth": 409,
-    "timeYear": 482,
+    "timeMonth": 416,
+    "timeYear": 483,
     "dailyMinutesDown": {
       "2026-03-29": 24
     }
@@ -180,7 +180,7 @@
     "time": 1639,
     "timeDay": 2096,
     "timeWeek": 1996,
-    "timeMonth": 1831,
+    "timeMonth": 1828,
     "timeYear": 1692,
     "dailyMinutesDown": {
       "2025-11-21": 28,
@@ -196,17 +196,17 @@
     "url": "http://dmrplus.arec.info/ipsc",
     "icon": "https://icons.duckduckgo.com/ip3/dmrplus.arec.info.ico",
     "slug": "ipsc-2-zl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.71%",
     "uptimeYear": "97.58%",
-    "time": 1632,
-    "timeDay": 1838,
-    "timeWeek": 2200,
-    "timeMonth": 3111,
-    "timeYear": 1932,
+    "time": 1650,
+    "timeDay": 6368,
+    "timeWeek": 3166,
+    "timeMonth": 3377,
+    "timeYear": 1955,
     "dailyMinutesDown": {
       "2025-12-18": 461,
       "2025-12-21": 20,
@@ -244,7 +244,8 @@
       "2026-07-30": 317,
       "2026-08-22": 18,
       "2026-10-10": 351,
-      "2026-10-26": 213
+      "2026-10-26": 213,
+      "2026-11-05": 0
     }
   },
   {
@@ -261,8 +262,8 @@
     "time": 1479,
     "timeDay": 1996,
     "timeWeek": 1624,
-    "timeMonth": 1519,
-    "timeYear": 1569,
+    "timeMonth": 1532,
+    "timeYear": 1570,
     "dailyMinutesDown": {
       "2025-11-08": 635,
       "2025-11-07": 1141,
@@ -310,8 +311,8 @@
     "time": 857,
     "timeDay": 1247,
     "timeWeek": 927,
-    "timeMonth": 841,
-    "timeYear": 880,
+    "timeMonth": 835,
+    "timeYear": 881,
     "dailyMinutesDown": {
       "2025-11-26": 56,
       "2026-10-14": 633
@@ -324,15 +325,15 @@
     "slug": "zl-4-gq-repeater",
     "status": "up",
     "uptime": "98.89%",
-    "uptimeDay": "75.36%",
+    "uptimeDay": "76.34%",
     "uptimeWeek": "93.41%",
     "uptimeMonth": "96.31%",
     "uptimeYear": "95.76%",
     "time": 4340,
-    "timeDay": 2672,
+    "timeDay": 2849,
     "timeWeek": 2481,
-    "timeMonth": 2429,
-    "timeYear": 4163,
+    "timeMonth": 2446,
+    "timeYear": 4167,
     "dailyMinutesDown": {
       "2026-03-03": 97,
       "2026-03-06": 73,
