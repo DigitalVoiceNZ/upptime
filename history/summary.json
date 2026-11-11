@@ -80,7 +80,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/zldigitalreflectors.hopto.org.ico",
     "slug": "xlx-530",
     "status": "up",
-    "uptime": "96.78%",
+    "uptime": "96.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -322,17 +322,17 @@
     "url": "zl4gq.dvnz.nz",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "zl-4-gq-repeater",
-    "status": "down",
-    "uptime": "98.90%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "96.61%",
-    "uptimeMonth": "96.30%",
-    "uptimeYear": "95.77%",
-    "time": 4340,
-    "timeDay": 2650,
-    "timeWeek": 2887,
-    "timeMonth": 2532,
-    "timeYear": 4123,
+    "status": "up",
+    "uptime": "98.88%",
+    "uptimeDay": "66.88%",
+    "uptimeWeek": "92.15%",
+    "uptimeMonth": "95.22%",
+    "uptimeYear": "95.68%",
+    "time": 4323,
+    "timeDay": 2559,
+    "timeWeek": 2736,
+    "timeMonth": 2528,
+    "timeYear": 4106,
     "dailyMinutesDown": {
       "2026-03-03": 56,
       "2026-03-06": 73,
@@ -418,7 +418,7 @@
       "2026-10-28": 321,
       "2026-11-03": 324,
       "2026-11-04": 341,
-      "2026-11-11": 1
+      "2026-11-11": 477
     }
   }
 ]
