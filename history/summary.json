@@ -190,17 +190,17 @@
     "url": "http://dmrplus.arec.info/ipsc",
     "icon": "https://icons.duckduckgo.com/ip3/dmrplus.arec.info.ico",
     "slug": "ipsc-2-zl",
-    "status": "down",
-    "uptime": "99.38%",
-    "uptimeDay": "87.98%",
-    "uptimeWeek": "98.28%",
-    "uptimeMonth": "92.92%",
-    "uptimeYear": "96.99%",
-    "time": 1730,
-    "timeDay": 10740,
-    "timeWeek": 3650,
-    "timeMonth": 2705,
-    "timeYear": 2053,
+    "status": "up",
+    "uptime": "99.37%",
+    "uptimeDay": "63.07%",
+    "uptimeWeek": "94.72%",
+    "uptimeMonth": "92.11%",
+    "uptimeYear": "96.92%",
+    "time": 1729,
+    "timeDay": 7399,
+    "timeWeek": 3324,
+    "timeMonth": 2649,
+    "timeYear": 2050,
     "dailyMinutesDown": {
       "2025-12-18": 461,
       "2025-12-21": 20,
@@ -242,7 +242,7 @@
       "2026-11-07": 153,
       "2026-11-06": 1440,
       "2026-11-05": 1334,
-      "2026-11-28": 173
+      "2026-11-28": 532
     }
   },
   {
